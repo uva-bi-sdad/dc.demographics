@@ -1,0 +1,1450 @@
+"geoid","region_type","region_name","year","measure","value"
+20120,"zip code","CENTREVILLE","2019","total_pop",38391.0796162797
+20120,"zip code","CENTREVILLE","2019","pop_black",2838.34887745757
+20120,"zip code","CENTREVILLE","2019","pop_native",62.3658536585366
+20120,"zip code","CENTREVILLE","2019","pop_AAPI",11501.4638753835
+20120,"zip code","CENTREVILLE","2019","pop_white",21601.1514299436
+20120,"zip code","CENTREVILLE","2019","pop_hispanic_or_latino",4615.59811598887
+20120,"zip code","CENTREVILLE","2019","pop_male",19039.9371407532
+20120,"zip code","CENTREVILLE","2019","pop_female",19351.1424755265
+20120,"zip code","CENTREVILLE","2019","pop_under_20",10055.4197024861
+20120,"zip code","CENTREVILLE","2019","pop_20_64",24796.5398084221
+20120,"zip code","CENTREVILLE","2019","pop_65_plus",3619.69742524027
+20120,"zip code","CENTREVILLE","2019","perc_black",7.39325099952118
+20120,"zip code","CENTREVILLE","2019","perc_native",0.162448814364914
+20120,"zip code","CENTREVILLE","2019","perc_AAPI",29.9586882951485
+20120,"zip code","CENTREVILLE","2019","perc_white",56.266069216724
+20120,"zip code","CENTREVILLE","2019","perc_hispanic_or_latino",12.0225796255848
+20120,"zip code","CENTREVILLE","2019","perc_male",49.5946905662932
+20120,"zip code","CENTREVILLE","2019","perc_female",50.4053094337068
+20120,"zip code","CENTREVILLE","2019","perc_under_20",26.192073270641
+20120,"zip code","CENTREVILLE","2019","perc_20_64",64.5893266255192
+20120,"zip code","CENTREVILLE","2019","perc_65_plus",9.42848563108743
+20121,"zip code","CENTREVILLE","2019","total_pop",29486.8196725971
+20121,"zip code","CENTREVILLE","2019","pop_black",2763.1597889312
+20121,"zip code","CENTREVILLE","2019","pop_native",125
+20121,"zip code","CENTREVILLE","2019","pop_AAPI",8427.82140624112
+20121,"zip code","CENTREVILLE","2019","pop_white",15294.507133519
+20121,"zip code","CENTREVILLE","2019","pop_hispanic_or_latino",4712.62516341727
+20121,"zip code","CENTREVILLE","2019","pop_male",14505.736741886
+20121,"zip code","CENTREVILLE","2019","pop_female",14981.0829307111
+20121,"zip code","CENTREVILLE","2019","pop_under_20",8153.50994713806
+20121,"zip code","CENTREVILLE","2019","pop_20_64",19066.8822448322
+20121,"zip code","CENTREVILLE","2019","pop_65_plus",2196.79183008394
+20121,"zip code","CENTREVILLE","2019","perc_black",9.37083015262947
+20121,"zip code","CENTREVILLE","2019","perc_native",0.423918216301116
+20121,"zip code","CENTREVILLE","2019","perc_AAPI",28.5816561427048
+20121,"zip code","CENTREVILLE","2019","perc_white",51.8689614659686
+20121,"zip code","CENTREVILLE","2019","perc_hispanic_or_latino",15.9821412269728
+20121,"zip code","CENTREVILLE","2019","perc_male",49.1939683660309
+20121,"zip code","CENTREVILLE","2019","perc_female",50.8060316339691
+20121,"zip code","CENTREVILLE","2019","perc_under_20",27.6513711470734
+20121,"zip code","CENTREVILLE","2019","perc_20_64",64.6623896932216
+20121,"zip code","CENTREVILLE","2019","perc_65_plus",7.45008059355237
+20124,"zip code","CLIFTON","2019","total_pop",16490.1128853949
+20124,"zip code","CLIFTON","2019","pop_black",750.068617879347
+20124,"zip code","CLIFTON","2019","pop_native",31.1882510013351
+20124,"zip code","CLIFTON","2019","pop_AAPI",2683.71404096025
+20124,"zip code","CLIFTON","2019","pop_white",11828.1287784834
+20124,"zip code","CLIFTON","2019","pop_hispanic_or_latino",1003.50397726639
+20124,"zip code","CLIFTON","2019","pop_male",8414.25120915042
+20124,"zip code","CLIFTON","2019","pop_female",8075.86167624446
+20124,"zip code","CLIFTON","2019","pop_under_20",4187.66776812201
+20124,"zip code","CLIFTON","2019","pop_20_64",9874.07017386204
+20124,"zip code","CLIFTON","2019","pop_65_plus",2378.06312696782
+20124,"zip code","CLIFTON","2019","perc_black",4.54859601685125
+20124,"zip code","CLIFTON","2019","perc_native",0.189133035159257
+20124,"zip code","CLIFTON","2019","perc_AAPI",16.2746856835479
+20124,"zip code","CLIFTON","2019","perc_white",71.7286101113316
+20124,"zip code","CLIFTON","2019","perc_hispanic_or_latino",6.0854888274002
+20124,"zip code","CLIFTON","2019","perc_male",51.0260376483101
+20124,"zip code","CLIFTON","2019","perc_female",48.9739623516899
+20124,"zip code","CLIFTON","2019","perc_under_20",25.3950218365757
+20124,"zip code","CLIFTON","2019","perc_20_64",59.8787300152893
+20124,"zip code","CLIFTON","2019","perc_65_plus",14.4211452249914
+20151,"zip code","CHANTILLY","2019","total_pop",19882.97597634
+20151,"zip code","CHANTILLY","2019","pop_black",1028.7381548615
+20151,"zip code","CHANTILLY","2019","pop_native",5.07760532150776
+20151,"zip code","CHANTILLY","2019","pop_AAPI",7538.80824673547
+20151,"zip code","CHANTILLY","2019","pop_white",10230.6229728317
+20151,"zip code","CHANTILLY","2019","pop_hispanic_or_latino",3265.14091411317
+20151,"zip code","CHANTILLY","2019","pop_male",9866.83413842784
+20151,"zip code","CHANTILLY","2019","pop_female",10016.1418379122
+20151,"zip code","CHANTILLY","2019","pop_under_20",5353.28145342926
+20151,"zip code","CHANTILLY","2019","pop_20_64",12378.7511165523
+20151,"zip code","CHANTILLY","2019","pop_65_plus",2165.01642121553
+20151,"zip code","CHANTILLY","2019","perc_black",5.17396468257901
+20151,"zip code","CHANTILLY","2019","perc_native",0.0255374513732246
+20151,"zip code","CHANTILLY","2019","perc_AAPI",37.915894761963
+20151,"zip code","CHANTILLY","2019","perc_white",51.4541836443687
+20151,"zip code","CHANTILLY","2019","perc_hispanic_or_latino",16.4217917780446
+20151,"zip code","CHANTILLY","2019","perc_male",49.6245338231511
+20151,"zip code","CHANTILLY","2019","perc_female",50.375466176849
+20151,"zip code","CHANTILLY","2019","perc_under_20",26.9239446841332
+20151,"zip code","CHANTILLY","2019","perc_20_64",62.2580398994725
+20151,"zip code","CHANTILLY","2019","perc_65_plus",10.8887946341222
+20152,"zip code","CHANTILLY","2019","total_pop",0
+20152,"zip code","CHANTILLY","2019","pop_black",0
+20152,"zip code","CHANTILLY","2019","pop_native",0
+20152,"zip code","CHANTILLY","2019","pop_AAPI",0
+20152,"zip code","CHANTILLY","2019","pop_white",0
+20152,"zip code","CHANTILLY","2019","pop_hispanic_or_latino",0
+20152,"zip code","CHANTILLY","2019","pop_male",0
+20152,"zip code","CHANTILLY","2019","pop_female",0
+20152,"zip code","CHANTILLY","2019","pop_under_20",0
+20152,"zip code","CHANTILLY","2019","pop_20_64",0
+20152,"zip code","CHANTILLY","2019","pop_65_plus",0
+20152,"zip code","CHANTILLY","2019","perc_black",NA
+20152,"zip code","CHANTILLY","2019","perc_native",NA
+20152,"zip code","CHANTILLY","2019","perc_AAPI",NA
+20152,"zip code","CHANTILLY","2019","perc_white",NA
+20152,"zip code","CHANTILLY","2019","perc_hispanic_or_latino",NA
+20152,"zip code","CHANTILLY","2019","perc_male",NA
+20152,"zip code","CHANTILLY","2019","perc_female",NA
+20152,"zip code","CHANTILLY","2019","perc_under_20",NA
+20152,"zip code","CHANTILLY","2019","perc_20_64",NA
+20152,"zip code","CHANTILLY","2019","perc_65_plus",NA
+20164,"zip code","STERLING","2019","total_pop",250.512820512821
+20164,"zip code","STERLING","2019","pop_black",4.18803418803419
+20164,"zip code","STERLING","2019","pop_native",0
+20164,"zip code","STERLING","2019","pop_AAPI",40.5128205128205
+20164,"zip code","STERLING","2019","pop_white",187.863247863248
+20164,"zip code","STERLING","2019","pop_hispanic_or_latino",28.2051282051282
+20164,"zip code","STERLING","2019","pop_male",126.324786324786
+20164,"zip code","STERLING","2019","pop_female",124.188034188034
+20164,"zip code","STERLING","2019","pop_under_20",62.5641025641026
+20164,"zip code","STERLING","2019","pop_20_64",147.692307692308
+20164,"zip code","STERLING","2019","pop_65_plus",36.9230769230769
+20164,"zip code","STERLING","2019","perc_black",1.67178437393381
+20164,"zip code","STERLING","2019","perc_native",0
+20164,"zip code","STERLING","2019","perc_AAPI",16.171954964176
+20164,"zip code","STERLING","2019","perc_white",74.991470487888
+20164,"zip code","STERLING","2019","perc_hispanic_or_latino",11.2589559877175
+20164,"zip code","STERLING","2019","perc_male",50.4264756055951
+20164,"zip code","STERLING","2019","perc_female",49.5735243944045
+20164,"zip code","STERLING","2019","perc_under_20",24.9744114636642
+20164,"zip code","STERLING","2019","perc_20_64",58.9559877175026
+20164,"zip code","STERLING","2019","perc_65_plus",14.7389969293756
+20166,"zip code","STERLING","2019","total_pop",0
+20166,"zip code","STERLING","2019","pop_black",0
+20166,"zip code","STERLING","2019","pop_native",0
+20166,"zip code","STERLING","2019","pop_AAPI",0
+20166,"zip code","STERLING","2019","pop_white",0
+20166,"zip code","STERLING","2019","pop_hispanic_or_latino",0
+20166,"zip code","STERLING","2019","pop_male",0
+20166,"zip code","STERLING","2019","pop_female",0
+20166,"zip code","STERLING","2019","pop_under_20",0
+20166,"zip code","STERLING","2019","pop_20_64",0
+20166,"zip code","STERLING","2019","pop_65_plus",0
+20166,"zip code","STERLING","2019","perc_black",NA
+20166,"zip code","STERLING","2019","perc_native",NA
+20166,"zip code","STERLING","2019","perc_AAPI",NA
+20166,"zip code","STERLING","2019","perc_white",NA
+20166,"zip code","STERLING","2019","perc_hispanic_or_latino",NA
+20166,"zip code","STERLING","2019","perc_male",NA
+20166,"zip code","STERLING","2019","perc_female",NA
+20166,"zip code","STERLING","2019","perc_under_20",NA
+20166,"zip code","STERLING","2019","perc_20_64",NA
+20166,"zip code","STERLING","2019","perc_65_plus",NA
+20170,"zip code","HERNDON","2019","total_pop",42882.8208696637
+20170,"zip code","HERNDON","2019","pop_black",3115.03595032027
+20170,"zip code","HERNDON","2019","pop_native",129
+20170,"zip code","HERNDON","2019","pop_AAPI",7580.69477105996
+20170,"zip code","HERNDON","2019","pop_white",26125.6000436102
+20170,"zip code","HERNDON","2019","pop_hispanic_or_latino",12936.1529732214
+20170,"zip code","HERNDON","2019","pop_male",22002.6074756448
+20170,"zip code","HERNDON","2019","pop_female",20880.2133940189
+20170,"zip code","HERNDON","2019","pop_under_20",11745.2625779601
+20170,"zip code","HERNDON","2019","pop_20_64",26870.634240338
+20170,"zip code","HERNDON","2019","pop_65_plus",4202.21042073307
+20170,"zip code","HERNDON","2019","perc_black",7.26406492657745
+20170,"zip code","HERNDON","2019","perc_native",0.300819762748532
+20170,"zip code","HERNDON","2019","perc_AAPI",17.6776961434054
+20170,"zip code","HERNDON","2019","perc_white",60.9232310603244
+20170,"zip code","HERNDON","2019","perc_hispanic_or_latino",30.1662826998696
+20170,"zip code","HERNDON","2019","perc_male",51.3086756641281
+20170,"zip code","HERNDON","2019","perc_female",48.6913243358719
+20170,"zip code","HERNDON","2019","perc_under_20",27.3892023420244
+20170,"zip code","HERNDON","2019","perc_20_64",62.6606032331864
+20170,"zip code","HERNDON","2019","perc_65_plus",9.79928637042116
+20171,"zip code","HERNDON","2019","total_pop",39775.3334827369
+20171,"zip code","HERNDON","2019","pop_black",3241.92449711749
+20171,"zip code","HERNDON","2019","pop_native",87.2774603236729
+20171,"zip code","HERNDON","2019","pop_AAPI",13153.9354824896
+20171,"zip code","HERNDON","2019","pop_white",21231.1371949794
+20171,"zip code","HERNDON","2019","pop_hispanic_or_latino",2893.19045882807
+20171,"zip code","HERNDON","2019","pop_male",19767.5147775083
+20171,"zip code","HERNDON","2019","pop_female",20007.8187052286
+20171,"zip code","HERNDON","2019","pop_under_20",11358.1139823777
+20171,"zip code","HERNDON","2019","pop_20_64",24903.4526332617
+20171,"zip code","HERNDON","2019","pop_65_plus",3458.6016938778
+20171,"zip code","HERNDON","2019","perc_black",8.15059036154789
+20171,"zip code","HERNDON","2019","perc_native",0.219426093213153
+20171,"zip code","HERNDON","2019","perc_AAPI",33.0705850353174
+20171,"zip code","HERNDON","2019","perc_white",53.3776472400766
+20171,"zip code","HERNDON","2019","perc_hispanic_or_latino",7.27383080291146
+20171,"zip code","HERNDON","2019","perc_male",49.6979234280656
+20171,"zip code","HERNDON","2019","perc_female",50.3020765719344
+20171,"zip code","HERNDON","2019","perc_under_20",28.5556725434049
+20171,"zip code","HERNDON","2019","perc_20_64",62.6102924921299
+20171,"zip code","HERNDON","2019","perc_65_plus",8.69534304565638
+20190,"zip code","RESTON","2019","total_pop",15687.6413945954
+20190,"zip code","RESTON","2019","pop_black",1973.84151318104
+20190,"zip code","RESTON","2019","pop_native",20
+20190,"zip code","RESTON","2019","pop_AAPI",1606.32147774823
+20190,"zip code","RESTON","2019","pop_white",11122.0081991953
+20190,"zip code","RESTON","2019","pop_hispanic_or_latino",2101.81633874053
+20190,"zip code","RESTON","2019","pop_male",7442.34009783313
+20190,"zip code","RESTON","2019","pop_female",8245.30129676229
+20190,"zip code","RESTON","2019","pop_under_20",3139.23372796388
+20190,"zip code","RESTON","2019","pop_20_64",10277.8107380704
+20190,"zip code","RESTON","2019","pop_65_plus",2126.66545104504
+20190,"zip code","RESTON","2019","perc_black",12.5821432523378
+20190,"zip code","RESTON","2019","perc_native",0.127488890757601
+20190,"zip code","RESTON","2019","perc_AAPI",10.2394071699116
+20190,"zip code","RESTON","2019","perc_white",70.8966244156175
+20190,"zip code","RESTON","2019","perc_hispanic_or_latino",13.3979116801116
+20190,"zip code","RESTON","2019","perc_male",47.4407841856782
+20190,"zip code","RESTON","2019","perc_female",52.5592158143218
+20190,"zip code","RESTON","2019","perc_under_20",20.0108712903482
+20190,"zip code","RESTON","2019","perc_20_64",65.5153345206582
+20190,"zip code","RESTON","2019","perc_65_plus",13.5563109683123
+20191,"zip code","RESTON","2019","total_pop",30001.4166965241
+20191,"zip code","RESTON","2019","pop_black",3583.93582499184
+20191,"zip code","RESTON","2019","pop_native",15
+20191,"zip code","RESTON","2019","pop_AAPI",3225.22492303714
+20191,"zip code","RESTON","2019","pop_white",20819.3454562216
+20191,"zip code","RESTON","2019","pop_hispanic_or_latino",4685.93217572127
+20191,"zip code","RESTON","2019","pop_male",14537.0996916178
+20191,"zip code","RESTON","2019","pop_female",15464.3170049063
+20191,"zip code","RESTON","2019","pop_under_20",7069.88370960288
+20191,"zip code","RESTON","2019","pop_20_64",18216.6591817316
+20191,"zip code","RESTON","2019","pop_65_plus",4650.27990079214
+20191,"zip code","RESTON","2019","perc_black",11.9458886266763
+20191,"zip code","RESTON","2019","perc_native",0.0499976389506228
+20191,"zip code","RESTON","2019","perc_AAPI",10.7502420824374
+20191,"zip code","RESTON","2019","perc_white",69.3945411538973
+20191,"zip code","RESTON","2019","perc_hispanic_or_latino",15.6190363379212
+20191,"zip code","RESTON","2019","perc_male",48.4547107847146
+20191,"zip code","RESTON","2019","perc_female",51.5452892152854
+20191,"zip code","RESTON","2019","perc_under_20",23.565166209041
+20191,"zip code","RESTON","2019","perc_20_64",60.7193299103176
+20191,"zip code","RESTON","2019","perc_65_plus",15.5002010332762
+20192,"zip code","HERNDON","2019","total_pop",0
+20192,"zip code","HERNDON","2019","pop_black",0
+20192,"zip code","HERNDON","2019","pop_native",0
+20192,"zip code","HERNDON","2019","pop_AAPI",0
+20192,"zip code","HERNDON","2019","pop_white",0
+20192,"zip code","HERNDON","2019","pop_hispanic_or_latino",0
+20192,"zip code","HERNDON","2019","pop_male",0
+20192,"zip code","HERNDON","2019","pop_female",0
+20192,"zip code","HERNDON","2019","pop_under_20",0
+20192,"zip code","HERNDON","2019","pop_20_64",0
+20192,"zip code","HERNDON","2019","pop_65_plus",0
+20192,"zip code","HERNDON","2019","perc_black",NA
+20192,"zip code","HERNDON","2019","perc_native",NA
+20192,"zip code","HERNDON","2019","perc_AAPI",NA
+20192,"zip code","HERNDON","2019","perc_white",NA
+20192,"zip code","HERNDON","2019","perc_hispanic_or_latino",NA
+20192,"zip code","HERNDON","2019","perc_male",NA
+20192,"zip code","HERNDON","2019","perc_female",NA
+20192,"zip code","HERNDON","2019","perc_under_20",NA
+20192,"zip code","HERNDON","2019","perc_20_64",NA
+20192,"zip code","HERNDON","2019","perc_65_plus",NA
+20194,"zip code","RESTON","2019","total_pop",13490.5123123123
+20194,"zip code","RESTON","2019","pop_black",409.160776160776
+20194,"zip code","RESTON","2019","pop_native",0
+20194,"zip code","RESTON","2019","pop_AAPI",1936.02878070378
+20194,"zip code","RESTON","2019","pop_white",10344.7212308462
+20194,"zip code","RESTON","2019","pop_hispanic_or_latino",791.870772695774
+20194,"zip code","RESTON","2019","pop_male",6721.60156887657
+20194,"zip code","RESTON","2019","pop_female",6768.91074343574
+20194,"zip code","RESTON","2019","pop_under_20",2968.1099002849
+20194,"zip code","RESTON","2019","pop_20_64",8965.78526796026
+20194,"zip code","RESTON","2019","pop_65_plus",1531.468995919
+20194,"zip code","RESTON","2019","perc_black",3.0329520976557
+20194,"zip code","RESTON","2019","perc_native",0
+20194,"zip code","RESTON","2019","perc_AAPI",14.3510397224636
+20194,"zip code","RESTON","2019","perc_white",76.6814557620987
+20194,"zip code","RESTON","2019","perc_hispanic_or_latino",5.86983469836843
+20194,"zip code","RESTON","2019","perc_male",49.8246576057902
+20194,"zip code","RESTON","2019","perc_female",50.1753423942098
+20194,"zip code","RESTON","2019","perc_under_20",22.0014617056167
+20194,"zip code","RESTON","2019","perc_20_64",66.4599316941989
+20194,"zip code","RESTON","2019","perc_65_plus",11.3521930113898
+20196,"zip code","RESTON","2019","total_pop",0
+20196,"zip code","RESTON","2019","pop_black",0
+20196,"zip code","RESTON","2019","pop_native",0
+20196,"zip code","RESTON","2019","pop_AAPI",0
+20196,"zip code","RESTON","2019","pop_white",0
+20196,"zip code","RESTON","2019","pop_hispanic_or_latino",0
+20196,"zip code","RESTON","2019","pop_male",0
+20196,"zip code","RESTON","2019","pop_female",0
+20196,"zip code","RESTON","2019","pop_under_20",0
+20196,"zip code","RESTON","2019","pop_20_64",0
+20196,"zip code","RESTON","2019","pop_65_plus",0
+20196,"zip code","RESTON","2019","perc_black",NA
+20196,"zip code","RESTON","2019","perc_native",NA
+20196,"zip code","RESTON","2019","perc_AAPI",NA
+20196,"zip code","RESTON","2019","perc_white",NA
+20196,"zip code","RESTON","2019","perc_hispanic_or_latino",NA
+20196,"zip code","RESTON","2019","perc_male",NA
+20196,"zip code","RESTON","2019","perc_female",NA
+20196,"zip code","RESTON","2019","perc_under_20",NA
+20196,"zip code","RESTON","2019","perc_20_64",NA
+20196,"zip code","RESTON","2019","perc_65_plus",NA
+22003,"zip code","ANNANDALE","2019","total_pop",57783.9869055816
+22003,"zip code","ANNANDALE","2019","pop_black",4773.37278882077
+22003,"zip code","ANNANDALE","2019","pop_native",376.797410356794
+22003,"zip code","ANNANDALE","2019","pop_AAPI",12377.9376266261
+22003,"zip code","ANNANDALE","2019","pop_white",29456.9153034605
+22003,"zip code","ANNANDALE","2019","pop_hispanic_or_latino",15032.8589066393
+22003,"zip code","ANNANDALE","2019","pop_male",28662.4792153981
+22003,"zip code","ANNANDALE","2019","pop_female",29121.5076901835
+22003,"zip code","ANNANDALE","2019","pop_under_20",14430.6093839404
+22003,"zip code","ANNANDALE","2019","pop_20_64",34462.6539703337
+22003,"zip code","ANNANDALE","2019","pop_65_plus",8465.91915543965
+22003,"zip code","ANNANDALE","2019","perc_black",8.26071900615028
+22003,"zip code","ANNANDALE","2019","perc_native",0.652079287939195
+22003,"zip code","ANNANDALE","2019","perc_AAPI",21.4210515568119
+22003,"zip code","ANNANDALE","2019","perc_white",50.9776442937258
+22003,"zip code","ANNANDALE","2019","perc_hispanic_or_latino",26.0156138606406
+22003,"zip code","ANNANDALE","2019","perc_male",49.6028065045637
+22003,"zip code","ANNANDALE","2019","perc_female",50.3971934954363
+22003,"zip code","ANNANDALE","2019","perc_under_20",24.9733709228472
+22003,"zip code","ANNANDALE","2019","perc_20_64",59.6404917968801
+22003,"zip code","ANNANDALE","2019","perc_65_plus",14.6509779072061
+22015,"zip code","BURKE","2019","total_pop",44310.2074790915
+22015,"zip code","BURKE","2019","pop_black",2977.94379748554
+22015,"zip code","BURKE","2019","pop_native",235.632470714798
+22015,"zip code","BURKE","2019","pop_AAPI",7333.01411418606
+22015,"zip code","BURKE","2019","pop_white",30805.1633152767
+22015,"zip code","BURKE","2019","pop_hispanic_or_latino",6719.02288389237
+22015,"zip code","BURKE","2019","pop_male",21910.5758683302
+22015,"zip code","BURKE","2019","pop_female",22399.6316107613
+22015,"zip code","BURKE","2019","pop_under_20",11701.4944093959
+22015,"zip code","BURKE","2019","pop_20_64",25831.1661487271
+22015,"zip code","BURKE","2019","pop_65_plus",6493.45678451767
+22015,"zip code","BURKE","2019","perc_black",6.72067220378224
+22015,"zip code","BURKE","2019","perc_native",0.531779208720666
+22015,"zip code","BURKE","2019","perc_AAPI",16.5492660300593
+22015,"zip code","BURKE","2019","perc_white",69.5215957402425
+22015,"zip code","BURKE","2019","perc_hispanic_or_latino",15.1636005926239
+22015,"zip code","BURKE","2019","perc_male",49.4481455061322
+22015,"zip code","BURKE","2019","perc_female",50.5518544938678
+22015,"zip code","BURKE","2019","perc_under_20",26.4081237148741
+22015,"zip code","BURKE","2019","perc_20_64",58.2961976896992
+22015,"zip code","BURKE","2019","perc_65_plus",14.6545393351672
+22018,"zip code","MERRIFIELD","2019","total_pop",0
+22018,"zip code","MERRIFIELD","2019","pop_black",0
+22018,"zip code","MERRIFIELD","2019","pop_native",0
+22018,"zip code","MERRIFIELD","2019","pop_AAPI",0
+22018,"zip code","MERRIFIELD","2019","pop_white",0
+22018,"zip code","MERRIFIELD","2019","pop_hispanic_or_latino",0
+22018,"zip code","MERRIFIELD","2019","pop_male",0
+22018,"zip code","MERRIFIELD","2019","pop_female",0
+22018,"zip code","MERRIFIELD","2019","pop_under_20",0
+22018,"zip code","MERRIFIELD","2019","pop_20_64",0
+22018,"zip code","MERRIFIELD","2019","pop_65_plus",0
+22018,"zip code","MERRIFIELD","2019","perc_black",NA
+22018,"zip code","MERRIFIELD","2019","perc_native",NA
+22018,"zip code","MERRIFIELD","2019","perc_AAPI",NA
+22018,"zip code","MERRIFIELD","2019","perc_white",NA
+22018,"zip code","MERRIFIELD","2019","perc_hispanic_or_latino",NA
+22018,"zip code","MERRIFIELD","2019","perc_male",NA
+22018,"zip code","MERRIFIELD","2019","perc_female",NA
+22018,"zip code","MERRIFIELD","2019","perc_under_20",NA
+22018,"zip code","MERRIFIELD","2019","perc_20_64",NA
+22018,"zip code","MERRIFIELD","2019","perc_65_plus",NA
+22019,"zip code","MERRIFIELD","2019","total_pop",0
+22019,"zip code","MERRIFIELD","2019","pop_black",0
+22019,"zip code","MERRIFIELD","2019","pop_native",0
+22019,"zip code","MERRIFIELD","2019","pop_AAPI",0
+22019,"zip code","MERRIFIELD","2019","pop_white",0
+22019,"zip code","MERRIFIELD","2019","pop_hispanic_or_latino",0
+22019,"zip code","MERRIFIELD","2019","pop_male",0
+22019,"zip code","MERRIFIELD","2019","pop_female",0
+22019,"zip code","MERRIFIELD","2019","pop_under_20",0
+22019,"zip code","MERRIFIELD","2019","pop_20_64",0
+22019,"zip code","MERRIFIELD","2019","pop_65_plus",0
+22019,"zip code","MERRIFIELD","2019","perc_black",NA
+22019,"zip code","MERRIFIELD","2019","perc_native",NA
+22019,"zip code","MERRIFIELD","2019","perc_AAPI",NA
+22019,"zip code","MERRIFIELD","2019","perc_white",NA
+22019,"zip code","MERRIFIELD","2019","perc_hispanic_or_latino",NA
+22019,"zip code","MERRIFIELD","2019","perc_male",NA
+22019,"zip code","MERRIFIELD","2019","perc_female",NA
+22019,"zip code","MERRIFIELD","2019","perc_under_20",NA
+22019,"zip code","MERRIFIELD","2019","perc_20_64",NA
+22019,"zip code","MERRIFIELD","2019","perc_65_plus",NA
+22027,"zip code","DUNN LORING","2019","total_pop",788.107993935442
+22027,"zip code","DUNN LORING","2019","pop_black",34.6800445641
+22027,"zip code","DUNN LORING","2019","pop_native",1.10694183864916
+22027,"zip code","DUNN LORING","2019","pop_AAPI",131.994107457886
+22027,"zip code","DUNN LORING","2019","pop_white",565.99152522032
+22027,"zip code","DUNN LORING","2019","pop_hispanic_or_latino",38.3261120023042
+22027,"zip code","DUNN LORING","2019","pop_male",371.021950019402
+22027,"zip code","DUNN LORING","2019","pop_female",417.08604391604
+22027,"zip code","DUNN LORING","2019","pop_under_20",213.505720526288
+22027,"zip code","DUNN LORING","2019","pop_20_64",437.88143109166
+22027,"zip code","DUNN LORING","2019","pop_65_plus",132.049726574845
+22027,"zip code","DUNN LORING","2019","perc_black",4.40041781468604
+22027,"zip code","DUNN LORING","2019","perc_native",0.140455603441048
+22027,"zip code","DUNN LORING","2019","perc_AAPI",16.7482259377639
+22027,"zip code","DUNN LORING","2019","perc_white",71.8164933709179
+22027,"zip code","DUNN LORING","2019","perc_hispanic_or_latino",4.86305332482692
+22027,"zip code","DUNN LORING","2019","perc_male",47.0775519185756
+22027,"zip code","DUNN LORING","2019","perc_female",52.9224480814245
+22027,"zip code","DUNN LORING","2019","perc_under_20",27.0909218240689
+22027,"zip code","DUNN LORING","2019","perc_20_64",55.5610949845954
+22027,"zip code","DUNN LORING","2019","perc_65_plus",16.755283234148
+22030,"zip code","FAIRFAX","2019","total_pop",34504.0856100538
+22030,"zip code","FAIRFAX","2019","pop_black",2652.67721971377
+22030,"zip code","FAIRFAX","2019","pop_native",41
+22030,"zip code","FAIRFAX","2019","pop_AAPI",9180.28437957583
+22030,"zip code","FAIRFAX","2019","pop_white",19809.6432854962
+22030,"zip code","FAIRFAX","2019","pop_hispanic_or_latino",3578.55577152942
+22030,"zip code","FAIRFAX","2019","pop_male",17035.2500511846
+22030,"zip code","FAIRFAX","2019","pop_female",17468.8355588692
+22030,"zip code","FAIRFAX","2019","pop_under_20",8661.70786032052
+22030,"zip code","FAIRFAX","2019","pop_20_64",22351.4217594949
+22030,"zip code","FAIRFAX","2019","pop_65_plus",3243.6128244715
+22030,"zip code","FAIRFAX","2019","perc_black",7.68800903664819
+22030,"zip code","FAIRFAX","2019","perc_native",0.118826507861589
+22030,"zip code","FAIRFAX","2019","perc_AAPI",26.6063691219827
+22030,"zip code","FAIRFAX","2019","perc_white",57.4124569170557
+22030,"zip code","FAIRFAX","2019","perc_hispanic_or_latino",10.371397207775
+22030,"zip code","FAIRFAX","2019","perc_male",49.3716896129568
+22030,"zip code","FAIRFAX","2019","perc_female",50.6283103870432
+22030,"zip code","FAIRFAX","2019","perc_under_20",25.1034267599796
+22030,"zip code","FAIRFAX","2019","perc_20_64",64.779058376154
+22030,"zip code","FAIRFAX","2019","perc_65_plus",9.40066304358571
+22031,"zip code","FAIRFAX","2019","total_pop",22642.1845642387
+22031,"zip code","FAIRFAX","2019","pop_black",1434.46256294065
+22031,"zip code","FAIRFAX","2019","pop_native",1.1868881645893
+22031,"zip code","FAIRFAX","2019","pop_AAPI",6037.40874858797
+22031,"zip code","FAIRFAX","2019","pop_white",13187.0645723874
+22031,"zip code","FAIRFAX","2019","pop_hispanic_or_latino",2838.21201929549
+22031,"zip code","FAIRFAX","2019","pop_male",11164.7929378165
+22031,"zip code","FAIRFAX","2019","pop_female",11477.3916264222
+22031,"zip code","FAIRFAX","2019","pop_under_20",5055.92759703058
+22031,"zip code","FAIRFAX","2019","pop_20_64",14467.9080596936
+22031,"zip code","FAIRFAX","2019","pop_65_plus",2845.35141689226
+22031,"zip code","FAIRFAX","2019","perc_black",6.33535407712493
+22031,"zip code","FAIRFAX","2019","perc_native",0.0052419330883111
+22031,"zip code","FAIRFAX","2019","perc_AAPI",26.6644268862799
+22031,"zip code","FAIRFAX","2019","perc_white",58.2411318791878
+22031,"zip code","FAIRFAX","2019","perc_hispanic_or_latino",12.5350626448748
+22031,"zip code","FAIRFAX","2019","perc_male",49.3096984795818
+22031,"zip code","FAIRFAX","2019","perc_female",50.6903015204183
+22031,"zip code","FAIRFAX","2019","perc_under_20",22.3296810547864
+22031,"zip code","FAIRFAX","2019","perc_20_64",63.8980219362064
+22031,"zip code","FAIRFAX","2019","perc_65_plus",12.5665940440492
+22032,"zip code","FAIRFAX","2019","total_pop",29502.8505294281
+22032,"zip code","FAIRFAX","2019","pop_black",1280.34409962546
+22032,"zip code","FAIRFAX","2019","pop_native",83
+22032,"zip code","FAIRFAX","2019","pop_AAPI",5286.73804908623
+22032,"zip code","FAIRFAX","2019","pop_white",21312.1734734471
+22032,"zip code","FAIRFAX","2019","pop_hispanic_or_latino",3672.20689403978
+22032,"zip code","FAIRFAX","2019","pop_male",14783.1447390815
+22032,"zip code","FAIRFAX","2019","pop_female",14719.7057903466
+22032,"zip code","FAIRFAX","2019","pop_under_20",7505.46952447709
+22032,"zip code","FAIRFAX","2019","pop_20_64",17356.8865922057
+22032,"zip code","FAIRFAX","2019","pop_65_plus",4532.88858863204
+22032,"zip code","FAIRFAX","2019","perc_black",4.33973015030653
+22032,"zip code","FAIRFAX","2019","perc_native",0.281328747936442
+22032,"zip code","FAIRFAX","2019","perc_AAPI",17.9194144098479
+22032,"zip code","FAIRFAX","2019","perc_white",72.2376756516761
+22032,"zip code","FAIRFAX","2019","perc_hispanic_or_latino",12.446956236913
+22032,"zip code","FAIRFAX","2019","perc_male",50.1075132531205
+22032,"zip code","FAIRFAX","2019","perc_female",49.8924867468796
+22032,"zip code","FAIRFAX","2019","perc_under_20",25.4398113734489
+22032,"zip code","FAIRFAX","2019","perc_20_64",58.8312189525306
+22032,"zip code","FAIRFAX","2019","perc_65_plus",15.3642394117499
+22033,"zip code","FAIRFAX","2019","total_pop",25799.5931863098
+22033,"zip code","FAIRFAX","2019","pop_black",1801.63301718804
+22033,"zip code","FAIRFAX","2019","pop_native",54.9539402360032
+22033,"zip code","FAIRFAX","2019","pop_AAPI",6927.61458268908
+22033,"zip code","FAIRFAX","2019","pop_white",15493.3579536588
+22033,"zip code","FAIRFAX","2019","pop_hispanic_or_latino",2248.00644425972
+22033,"zip code","FAIRFAX","2019","pop_male",12388.5338218414
+22033,"zip code","FAIRFAX","2019","pop_female",13411.0593644684
+22033,"zip code","FAIRFAX","2019","pop_under_20",6447.29826260214
+22033,"zip code","FAIRFAX","2019","pop_20_64",16545.6685224846
+22033,"zip code","FAIRFAX","2019","pop_65_plus",2790.97615888014
+22033,"zip code","FAIRFAX","2019","perc_black",6.98318382068155
+22033,"zip code","FAIRFAX","2019","perc_native",0.213003126984048
+22033,"zip code","FAIRFAX","2019","perc_AAPI",26.8516427087119
+22033,"zip code","FAIRFAX","2019","perc_white",60.0527219238485
+22033,"zip code","FAIRFAX","2019","perc_hispanic_or_latino",8.7133406640404
+22033,"zip code","FAIRFAX","2019","perc_male",48.0183301045818
+22033,"zip code","FAIRFAX","2019","perc_female",51.9816698954183
+22033,"zip code","FAIRFAX","2019","perc_under_20",24.9899221900263
+22033,"zip code","FAIRFAX","2019","perc_20_64",64.1315093730405
+22033,"zip code","FAIRFAX","2019","perc_65_plus",10.8179076263929
+22035,"zip code","FAIRFAX","2019","total_pop",0
+22035,"zip code","FAIRFAX","2019","pop_black",0
+22035,"zip code","FAIRFAX","2019","pop_native",0
+22035,"zip code","FAIRFAX","2019","pop_AAPI",0
+22035,"zip code","FAIRFAX","2019","pop_white",0
+22035,"zip code","FAIRFAX","2019","pop_hispanic_or_latino",0
+22035,"zip code","FAIRFAX","2019","pop_male",0
+22035,"zip code","FAIRFAX","2019","pop_female",0
+22035,"zip code","FAIRFAX","2019","pop_under_20",0
+22035,"zip code","FAIRFAX","2019","pop_20_64",0
+22035,"zip code","FAIRFAX","2019","pop_65_plus",0
+22035,"zip code","FAIRFAX","2019","perc_black",NA
+22035,"zip code","FAIRFAX","2019","perc_native",NA
+22035,"zip code","FAIRFAX","2019","perc_AAPI",NA
+22035,"zip code","FAIRFAX","2019","perc_white",NA
+22035,"zip code","FAIRFAX","2019","perc_hispanic_or_latino",NA
+22035,"zip code","FAIRFAX","2019","perc_male",NA
+22035,"zip code","FAIRFAX","2019","perc_female",NA
+22035,"zip code","FAIRFAX","2019","perc_under_20",NA
+22035,"zip code","FAIRFAX","2019","perc_20_64",NA
+22035,"zip code","FAIRFAX","2019","perc_65_plus",NA
+22037,"zip code","FAIRFAX","2019","total_pop",0
+22037,"zip code","FAIRFAX","2019","pop_black",0
+22037,"zip code","FAIRFAX","2019","pop_native",0
+22037,"zip code","FAIRFAX","2019","pop_AAPI",0
+22037,"zip code","FAIRFAX","2019","pop_white",0
+22037,"zip code","FAIRFAX","2019","pop_hispanic_or_latino",0
+22037,"zip code","FAIRFAX","2019","pop_male",0
+22037,"zip code","FAIRFAX","2019","pop_female",0
+22037,"zip code","FAIRFAX","2019","pop_under_20",0
+22037,"zip code","FAIRFAX","2019","pop_20_64",0
+22037,"zip code","FAIRFAX","2019","pop_65_plus",0
+22037,"zip code","FAIRFAX","2019","perc_black",NA
+22037,"zip code","FAIRFAX","2019","perc_native",NA
+22037,"zip code","FAIRFAX","2019","perc_AAPI",NA
+22037,"zip code","FAIRFAX","2019","perc_white",NA
+22037,"zip code","FAIRFAX","2019","perc_hispanic_or_latino",NA
+22037,"zip code","FAIRFAX","2019","perc_male",NA
+22037,"zip code","FAIRFAX","2019","perc_female",NA
+22037,"zip code","FAIRFAX","2019","perc_under_20",NA
+22037,"zip code","FAIRFAX","2019","perc_20_64",NA
+22037,"zip code","FAIRFAX","2019","perc_65_plus",NA
+22039,"zip code","FAIRFAX STATION","2019","total_pop",19305.1769728137
+22039,"zip code","FAIRFAX STATION","2019","pop_black",895.600101496864
+22039,"zip code","FAIRFAX STATION","2019","pop_native",0.0308988764044944
+22039,"zip code","FAIRFAX STATION","2019","pop_AAPI",2421.70117079334
+22039,"zip code","FAIRFAX STATION","2019","pop_white",15367.5491531447
+22039,"zip code","FAIRFAX STATION","2019","pop_hispanic_or_latino",1093.76717994387
+22039,"zip code","FAIRFAX STATION","2019","pop_male",9647.08539245575
+22039,"zip code","FAIRFAX STATION","2019","pop_female",9658.091580358
+22039,"zip code","FAIRFAX STATION","2019","pop_under_20",4895.45260920987
+22039,"zip code","FAIRFAX STATION","2019","pop_20_64",10808.9850237675
+22039,"zip code","FAIRFAX STATION","2019","pop_65_plus",3426.14837472817
+22039,"zip code","FAIRFAX STATION","2019","perc_black",4.63917063675759
+22039,"zip code","FAIRFAX STATION","2019","perc_native",0.000160054872576446
+22039,"zip code","FAIRFAX STATION","2019","perc_AAPI",12.5443096129275
+22039,"zip code","FAIRFAX STATION","2019","perc_white",79.603254478246
+22039,"zip code","FAIRFAX STATION","2019","perc_hispanic_or_latino",5.66566771951456
+22039,"zip code","FAIRFAX STATION","2019","perc_male",49.9714942061455
+22039,"zip code","FAIRFAX STATION","2019","perc_female",50.0285057938546
+22039,"zip code","FAIRFAX STATION","2019","perc_under_20",25.3582374101197
+22039,"zip code","FAIRFAX STATION","2019","perc_20_64",55.9900851413541
+22039,"zip code","FAIRFAX STATION","2019","perc_65_plus",17.7473036354601
+22041,"zip code","FALLS CHURCH","2019","total_pop",26368.8640646531
+22041,"zip code","FALLS CHURCH","2019","pop_black",4397.93054406984
+22041,"zip code","FALLS CHURCH","2019","pop_native",11.525065885418
+22041,"zip code","FALLS CHURCH","2019","pop_AAPI",3921.95431696981
+22041,"zip code","FALLS CHURCH","2019","pop_white",12741.948386428
+22041,"zip code","FALLS CHURCH","2019","pop_hispanic_or_latino",7426.13701161921
+22041,"zip code","FALLS CHURCH","2019","pop_male",12752.7088822241
+22041,"zip code","FALLS CHURCH","2019","pop_female",13616.155182429
+22041,"zip code","FALLS CHURCH","2019","pop_under_20",6475.33508473805
+22041,"zip code","FALLS CHURCH","2019","pop_20_64",16176.6538577812
+22041,"zip code","FALLS CHURCH","2019","pop_65_plus",3611.29227737007
+22041,"zip code","FALLS CHURCH","2019","perc_black",16.6784982974112
+22041,"zip code","FALLS CHURCH","2019","perc_native",0.0437071003785373
+22041,"zip code","FALLS CHURCH","2019","perc_AAPI",14.8734291600642
+22041,"zip code","FALLS CHURCH","2019","perc_white",48.3219465017014
+22041,"zip code","FALLS CHURCH","2019","perc_hispanic_or_latino",28.1625215004001
+22041,"zip code","FALLS CHURCH","2019","perc_male",48.3627540835891
+22041,"zip code","FALLS CHURCH","2019","perc_female",51.6372459164109
+22041,"zip code","FALLS CHURCH","2019","perc_under_20",24.5567464296579
+22041,"zip code","FALLS CHURCH","2019","perc_20_64",61.3475567931864
+22041,"zip code","FALLS CHURCH","2019","perc_65_plus",13.6952895222018
+22042,"zip code","FALLS CHURCH","2019","total_pop",35313.6808593569
+22042,"zip code","FALLS CHURCH","2019","pop_black",1868.76444808574
+22042,"zip code","FALLS CHURCH","2019","pop_native",86.6393617861242
+22042,"zip code","FALLS CHURCH","2019","pop_AAPI",6811.97982850268
+22042,"zip code","FALLS CHURCH","2019","pop_white",20067.7949895446
+22042,"zip code","FALLS CHURCH","2019","pop_hispanic_or_latino",10178.6559522522
+22042,"zip code","FALLS CHURCH","2019","pop_male",18094.6460727009
+22042,"zip code","FALLS CHURCH","2019","pop_female",17219.034786656
+22042,"zip code","FALLS CHURCH","2019","pop_under_20",7822.27551192842
+22042,"zip code","FALLS CHURCH","2019","pop_20_64",23135.1851737323
+22042,"zip code","FALLS CHURCH","2019","pop_65_plus",4216.03795568779
+22042,"zip code","FALLS CHURCH","2019","perc_black",5.29189935064666
+22042,"zip code","FALLS CHURCH","2019","perc_native",0.245342200749849
+22042,"zip code","FALLS CHURCH","2019","perc_AAPI",19.2899172862569
+22042,"zip code","FALLS CHURCH","2019","perc_white",56.8272536342733
+22042,"zip code","FALLS CHURCH","2019","perc_hispanic_or_latino",28.8235485640553
+22042,"zip code","FALLS CHURCH","2019","perc_male",51.2397621328857
+22042,"zip code","FALLS CHURCH","2019","perc_female",48.7602378671142
+22042,"zip code","FALLS CHURCH","2019","perc_under_20",22.1508359411245
+22042,"zip code","FALLS CHURCH","2019","perc_20_64",65.5133778488636
+22042,"zip code","FALLS CHURCH","2019","perc_65_plus",11.938823291967
+22043,"zip code","FALLS CHURCH","2019","total_pop",25607.9061571979
+22043,"zip code","FALLS CHURCH","2019","pop_black",916.333797614269
+22043,"zip code","FALLS CHURCH","2019","pop_native",60.8034682080925
+22043,"zip code","FALLS CHURCH","2019","pop_AAPI",5881.57709788277
+22043,"zip code","FALLS CHURCH","2019","pop_white",15488.672589569
+22043,"zip code","FALLS CHURCH","2019","pop_hispanic_or_latino",4134.84115361098
+22043,"zip code","FALLS CHURCH","2019","pop_male",12871.3530721045
+22043,"zip code","FALLS CHURCH","2019","pop_female",12736.5530850935
+22043,"zip code","FALLS CHURCH","2019","pop_under_20",6324.49850461942
+22043,"zip code","FALLS CHURCH","2019","pop_20_64",16029.3422851109
+22043,"zip code","FALLS CHURCH","2019","pop_65_plus",3148.20750779377
+22043,"zip code","FALLS CHURCH","2019","perc_black",3.57832378793181
+22043,"zip code","FALLS CHURCH","2019","perc_native",0.237440218012521
+22043,"zip code","FALLS CHURCH","2019","perc_AAPI",22.9678172896208
+22043,"zip code","FALLS CHURCH","2019","perc_white",60.4839477874118
+22043,"zip code","FALLS CHURCH","2019","perc_hispanic_or_latino",16.1467365907569
+22043,"zip code","FALLS CHURCH","2019","perc_male",50.2631999394708
+22043,"zip code","FALLS CHURCH","2019","perc_female",49.7368000605292
+22043,"zip code","FALLS CHURCH","2019","perc_under_20",24.6974448664234
+22043,"zip code","FALLS CHURCH","2019","perc_20_64",62.5952867318101
+22043,"zip code","FALLS CHURCH","2019","perc_65_plus",12.2938888032002
+22044,"zip code","FALLS CHURCH","2019","total_pop",12545.7164858974
+22044,"zip code","FALLS CHURCH","2019","pop_black",576.848067435396
+22044,"zip code","FALLS CHURCH","2019","pop_native",9.98609256274466
+22044,"zip code","FALLS CHURCH","2019","pop_AAPI",2019.19372334084
+22044,"zip code","FALLS CHURCH","2019","pop_white",7913.49889954868
+22044,"zip code","FALLS CHURCH","2019","pop_hispanic_or_latino",3849.17703541743
+22044,"zip code","FALLS CHURCH","2019","pop_male",6272.55624640512
+22044,"zip code","FALLS CHURCH","2019","pop_female",6273.16023949226
+22044,"zip code","FALLS CHURCH","2019","pop_under_20",3071.02085325989
+22044,"zip code","FALLS CHURCH","2019","pop_20_64",7669.29698496874
+22044,"zip code","FALLS CHURCH","2019","pop_65_plus",1673.64510076629
+22044,"zip code","FALLS CHURCH","2019","perc_black",4.59796830323585
+22044,"zip code","FALLS CHURCH","2019","perc_native",0.0795976266000432
+22044,"zip code","FALLS CHURCH","2019","perc_AAPI",16.0946863864699
+22044,"zip code","FALLS CHURCH","2019","perc_white",63.0772974062042
+22044,"zip code","FALLS CHURCH","2019","perc_hispanic_or_latino",30.6812053320692
+22044,"zip code","FALLS CHURCH","2019","perc_male",49.9975928314345
+22044,"zip code","FALLS CHURCH","2019","perc_female",50.0024071685656
+22044,"zip code","FALLS CHURCH","2019","perc_under_20",24.4786406317409
+22044,"zip code","FALLS CHURCH","2019","perc_20_64",61.1308010474315
+22044,"zip code","FALLS CHURCH","2019","perc_65_plus",13.3403708161876
+22046,"zip code","FALLS CHURCH","2019","total_pop",6451.17717146009
+22046,"zip code","FALLS CHURCH","2019","pop_black",268.351381684401
+22046,"zip code","FALLS CHURCH","2019","pop_native",1.88102207521848
+22046,"zip code","FALLS CHURCH","2019","pop_AAPI",982.156309720559
+22046,"zip code","FALLS CHURCH","2019","pop_white",4356.78951480642
+22046,"zip code","FALLS CHURCH","2019","pop_hispanic_or_latino",880.70521569538
+22046,"zip code","FALLS CHURCH","2019","pop_male",3334.75157472845
+22046,"zip code","FALLS CHURCH","2019","pop_female",3116.42559673164
+22046,"zip code","FALLS CHURCH","2019","pop_under_20",1734.3973338735
+22046,"zip code","FALLS CHURCH","2019","pop_20_64",3801.86041799014
+22046,"zip code","FALLS CHURCH","2019","pop_65_plus",913.504912546496
+22046,"zip code","FALLS CHURCH","2019","perc_black",4.1597273575369
+22046,"zip code","FALLS CHURCH","2019","perc_native",0.0291578114385091
+22046,"zip code","FALLS CHURCH","2019","perc_AAPI",15.2244510360931
+22046,"zip code","FALLS CHURCH","2019","perc_white",67.5347986733459
+22046,"zip code","FALLS CHURCH","2019","perc_hispanic_or_latino",13.6518528679015
+22046,"zip code","FALLS CHURCH","2019","perc_male",51.692140613985
+22046,"zip code","FALLS CHURCH","2019","perc_female",48.307859386015
+22046,"zip code","FALLS CHURCH","2019","perc_under_20",26.8849744438341
+22046,"zip code","FALLS CHURCH","2019","perc_20_64",58.9328167083909
+22046,"zip code","FALLS CHURCH","2019","perc_65_plus",14.1602825076302
+22060,"zip code","FORT BELVOIR","2019","total_pop",5609.18618798241
+22060,"zip code","FORT BELVOIR","2019","pop_black",1471.94330382138
+22060,"zip code","FORT BELVOIR","2019","pop_native",0.0185861351995537
+22060,"zip code","FORT BELVOIR","2019","pop_AAPI",625.737663453892
+22060,"zip code","FORT BELVOIR","2019","pop_white",2575.31900390905
+22060,"zip code","FORT BELVOIR","2019","pop_hispanic_or_latino",966.804497189442
+22060,"zip code","FORT BELVOIR","2019","pop_male",2881.0098738346
+22060,"zip code","FORT BELVOIR","2019","pop_female",2728.17631414781
+22060,"zip code","FORT BELVOIR","2019","pop_under_20",1467.09148160199
+22060,"zip code","FORT BELVOIR","2019","pop_20_64",3332.81538668911
+22060,"zip code","FORT BELVOIR","2019","pop_65_plus",758.108086947225
+22060,"zip code","FORT BELVOIR","2019","perc_black",26.2416552863763
+22060,"zip code","FORT BELVOIR","2019","perc_native",0.00033135172512858
+22060,"zip code","FORT BELVOIR","2019","perc_AAPI",11.1555873255647
+22060,"zip code","FORT BELVOIR","2019","perc_white",45.9125248761867
+22060,"zip code","FORT BELVOIR","2019","perc_hispanic_or_latino",17.2360920958695
+22060,"zip code","FORT BELVOIR","2019","perc_male",51.3623505671307
+22060,"zip code","FORT BELVOIR","2019","perc_female",48.6376494328693
+22060,"zip code","FORT BELVOIR","2019","perc_under_20",26.1551574940623
+22060,"zip code","FORT BELVOIR","2019","perc_20_64",59.4170932287755
+22060,"zip code","FORT BELVOIR","2019","perc_65_plus",13.5154737521721
+22066,"zip code","GREAT FALLS","2019","total_pop",12341.4534825963
+22066,"zip code","GREAT FALLS","2019","pop_black",152.691390869337
+22066,"zip code","GREAT FALLS","2019","pop_native",29
+22066,"zip code","GREAT FALLS","2019","pop_AAPI",2175.97399700534
+22066,"zip code","GREAT FALLS","2019","pop_white",9481.66839877884
+22066,"zip code","GREAT FALLS","2019","pop_hispanic_or_latino",567.482475183094
+22066,"zip code","GREAT FALLS","2019","pop_male",6077.23849614738
+22066,"zip code","GREAT FALLS","2019","pop_female",6264.21498644893
+22066,"zip code","GREAT FALLS","2019","pop_under_20",3115.5242657479
+22066,"zip code","GREAT FALLS","2019","pop_20_64",6618.88929815485
+22066,"zip code","GREAT FALLS","2019","pop_65_plus",2598.16240039265
+22066,"zip code","GREAT FALLS","2019","perc_black",1.23722372802085
+22066,"zip code","GREAT FALLS","2019","perc_native",0.234980426259316
+22066,"zip code","GREAT FALLS","2019","perc_AAPI",17.6314240463967
+22066,"zip code","GREAT FALLS","2019","perc_white",76.8278097239497
+22066,"zip code","GREAT FALLS","2019","perc_hispanic_or_latino",4.59818185907638
+22066,"zip code","GREAT FALLS","2019","perc_male",49.2424859415254
+22066,"zip code","GREAT FALLS","2019","perc_female",50.7575140584747
+22066,"zip code","GREAT FALLS","2019","perc_under_20",25.2443868960926
+22066,"zip code","GREAT FALLS","2019","perc_20_64",53.6313596084018
+22066,"zip code","GREAT FALLS","2019","perc_65_plus",21.0523209770756
+22079,"zip code","LORTON","2019","total_pop",39365.1489720567
+22079,"zip code","LORTON","2019","pop_black",9397.08604249892
+22079,"zip code","LORTON","2019","pop_native",57.139682788359
+22079,"zip code","LORTON","2019","pop_AAPI",7031.43573500286
+22079,"zip code","LORTON","2019","pop_white",19193.3189444948
+22079,"zip code","LORTON","2019","pop_hispanic_or_latino",5918.69884188061
+22079,"zip code","LORTON","2019","pop_male",18783.2861470661
+22079,"zip code","LORTON","2019","pop_female",20581.8628249905
+22079,"zip code","LORTON","2019","pop_under_20",11556.6470220608
+22079,"zip code","LORTON","2019","pop_20_64",23822.5346748325
+22079,"zip code","LORTON","2019","pop_65_plus",3730.00233159149
+22079,"zip code","LORTON","2019","perc_black",23.8715876552873
+22079,"zip code","LORTON","2019","perc_native",0.145152969772627
+22079,"zip code","LORTON","2019","perc_AAPI",17.8620833875013
+22079,"zip code","LORTON","2019","perc_white",48.7571352978218
+22079,"zip code","LORTON","2019","perc_hispanic_or_latino",15.0353777298849
+22079,"zip code","LORTON","2019","perc_male",47.7155215655336
+22079,"zip code","LORTON","2019","perc_female",52.2844784344664
+22079,"zip code","LORTON","2019","perc_under_20",29.357559475424
+22079,"zip code","LORTON","2019","perc_20_64",60.5168157543185
+22079,"zip code","LORTON","2019","perc_65_plus",9.47539239401643
+22081,"zip code","MERRIFIELD","2019","total_pop",0
+22081,"zip code","MERRIFIELD","2019","pop_black",0
+22081,"zip code","MERRIFIELD","2019","pop_native",0
+22081,"zip code","MERRIFIELD","2019","pop_AAPI",0
+22081,"zip code","MERRIFIELD","2019","pop_white",0
+22081,"zip code","MERRIFIELD","2019","pop_hispanic_or_latino",0
+22081,"zip code","MERRIFIELD","2019","pop_male",0
+22081,"zip code","MERRIFIELD","2019","pop_female",0
+22081,"zip code","MERRIFIELD","2019","pop_under_20",0
+22081,"zip code","MERRIFIELD","2019","pop_20_64",0
+22081,"zip code","MERRIFIELD","2019","pop_65_plus",0
+22081,"zip code","MERRIFIELD","2019","perc_black",NA
+22081,"zip code","MERRIFIELD","2019","perc_native",NA
+22081,"zip code","MERRIFIELD","2019","perc_AAPI",NA
+22081,"zip code","MERRIFIELD","2019","perc_white",NA
+22081,"zip code","MERRIFIELD","2019","perc_hispanic_or_latino",NA
+22081,"zip code","MERRIFIELD","2019","perc_male",NA
+22081,"zip code","MERRIFIELD","2019","perc_female",NA
+22081,"zip code","MERRIFIELD","2019","perc_under_20",NA
+22081,"zip code","MERRIFIELD","2019","perc_20_64",NA
+22081,"zip code","MERRIFIELD","2019","perc_65_plus",NA
+22082,"zip code","MERRIFIELD","2019","total_pop",0
+22082,"zip code","MERRIFIELD","2019","pop_black",0
+22082,"zip code","MERRIFIELD","2019","pop_native",0
+22082,"zip code","MERRIFIELD","2019","pop_AAPI",0
+22082,"zip code","MERRIFIELD","2019","pop_white",0
+22082,"zip code","MERRIFIELD","2019","pop_hispanic_or_latino",0
+22082,"zip code","MERRIFIELD","2019","pop_male",0
+22082,"zip code","MERRIFIELD","2019","pop_female",0
+22082,"zip code","MERRIFIELD","2019","pop_under_20",0
+22082,"zip code","MERRIFIELD","2019","pop_20_64",0
+22082,"zip code","MERRIFIELD","2019","pop_65_plus",0
+22082,"zip code","MERRIFIELD","2019","perc_black",NA
+22082,"zip code","MERRIFIELD","2019","perc_native",NA
+22082,"zip code","MERRIFIELD","2019","perc_AAPI",NA
+22082,"zip code","MERRIFIELD","2019","perc_white",NA
+22082,"zip code","MERRIFIELD","2019","perc_hispanic_or_latino",NA
+22082,"zip code","MERRIFIELD","2019","perc_male",NA
+22082,"zip code","MERRIFIELD","2019","perc_female",NA
+22082,"zip code","MERRIFIELD","2019","perc_under_20",NA
+22082,"zip code","MERRIFIELD","2019","perc_20_64",NA
+22082,"zip code","MERRIFIELD","2019","perc_65_plus",NA
+22101,"zip code","MCLEAN","2019","total_pop",29706.5231139456
+22101,"zip code","MCLEAN","2019","pop_black",654.666222759203
+22101,"zip code","MCLEAN","2019","pop_native",46
+22101,"zip code","MCLEAN","2019","pop_AAPI",5406.67907004658
+22101,"zip code","MCLEAN","2019","pop_white",22431.8157936206
+22101,"zip code","MCLEAN","2019","pop_hispanic_or_latino",1447.07603619353
+22101,"zip code","MCLEAN","2019","pop_male",14767.0714857781
+22101,"zip code","MCLEAN","2019","pop_female",14939.4516281675
+22101,"zip code","MCLEAN","2019","pop_under_20",8239.46455310871
+22101,"zip code","MCLEAN","2019","pop_20_64",15218.8792817198
+22101,"zip code","MCLEAN","2019","pop_65_plus",6127.76934179747
+22101,"zip code","MCLEAN","2019","perc_black",2.2037793525957
+22101,"zip code","MCLEAN","2019","perc_native",0.154848145047327
+22101,"zip code","MCLEAN","2019","perc_AAPI",18.2003092361504
+22101,"zip code","MCLEAN","2019","perc_white",75.5114144714234
+22101,"zip code","MCLEAN","2019","perc_hispanic_or_latino",4.87123999884795
+22101,"zip code","MCLEAN","2019","perc_male",49.7098614642174
+22101,"zip code","MCLEAN","2019","perc_female",50.2901385357826
+22101,"zip code","MCLEAN","2019","perc_under_20",27.7362130920018
+22101,"zip code","MCLEAN","2019","perc_20_64",51.2307657929021
+22101,"zip code","MCLEAN","2019","perc_65_plus",20.6276894751134
+22102,"zip code","MCLEAN","2019","total_pop",8653.93024877163
+22102,"zip code","MCLEAN","2019","pop_black",249.248275862069
+22102,"zip code","MCLEAN","2019","pop_native",0
+22102,"zip code","MCLEAN","2019","pop_AAPI",2659.18466646009
+22102,"zip code","MCLEAN","2019","pop_white",5257.31109955292
+22102,"zip code","MCLEAN","2019","pop_hispanic_or_latino",389.035941304059
+22102,"zip code","MCLEAN","2019","pop_male",4046.3839847727
+22102,"zip code","MCLEAN","2019","pop_female",4607.54626399893
+22102,"zip code","MCLEAN","2019","pop_under_20",2112.29000929574
+22102,"zip code","MCLEAN","2019","pop_20_64",4987.08973706343
+22102,"zip code","MCLEAN","2019","pop_65_plus",1493.00172192466
+22102,"zip code","MCLEAN","2019","perc_black",2.88017431036549
+22102,"zip code","MCLEAN","2019","perc_native",0
+22102,"zip code","MCLEAN","2019","perc_AAPI",30.728057541688
+22102,"zip code","MCLEAN","2019","perc_white",60.7505601319027
+22102,"zip code","MCLEAN","2019","perc_hispanic_or_latino",4.49548274738267
+22102,"zip code","MCLEAN","2019","perc_male",46.7577605602617
+22102,"zip code","MCLEAN","2019","perc_female",53.2422394397383
+22102,"zip code","MCLEAN","2019","perc_under_20",24.4084473594592
+22102,"zip code","MCLEAN","2019","perc_20_64",57.6280325089438
+22102,"zip code","MCLEAN","2019","perc_65_plus",17.252296690704
+22116,"zip code","MERRIFIELD","2019","total_pop",0
+22116,"zip code","MERRIFIELD","2019","pop_black",0
+22116,"zip code","MERRIFIELD","2019","pop_native",0
+22116,"zip code","MERRIFIELD","2019","pop_AAPI",0
+22116,"zip code","MERRIFIELD","2019","pop_white",0
+22116,"zip code","MERRIFIELD","2019","pop_hispanic_or_latino",0
+22116,"zip code","MERRIFIELD","2019","pop_male",0
+22116,"zip code","MERRIFIELD","2019","pop_female",0
+22116,"zip code","MERRIFIELD","2019","pop_under_20",0
+22116,"zip code","MERRIFIELD","2019","pop_20_64",0
+22116,"zip code","MERRIFIELD","2019","pop_65_plus",0
+22116,"zip code","MERRIFIELD","2019","perc_black",NA
+22116,"zip code","MERRIFIELD","2019","perc_native",NA
+22116,"zip code","MERRIFIELD","2019","perc_AAPI",NA
+22116,"zip code","MERRIFIELD","2019","perc_white",NA
+22116,"zip code","MERRIFIELD","2019","perc_hispanic_or_latino",NA
+22116,"zip code","MERRIFIELD","2019","perc_male",NA
+22116,"zip code","MERRIFIELD","2019","perc_female",NA
+22116,"zip code","MERRIFIELD","2019","perc_under_20",NA
+22116,"zip code","MERRIFIELD","2019","perc_20_64",NA
+22116,"zip code","MERRIFIELD","2019","perc_65_plus",NA
+22124,"zip code","OAKTON","2019","total_pop",18879.9414288518
+22124,"zip code","OAKTON","2019","pop_black",325.51048895279
+22124,"zip code","OAKTON","2019","pop_native",127.080992847462
+22124,"zip code","OAKTON","2019","pop_AAPI",3214.31123808877
+22124,"zip code","OAKTON","2019","pop_white",13846.6855059593
+22124,"zip code","OAKTON","2019","pop_hispanic_or_latino",1659.43712670938
+22124,"zip code","OAKTON","2019","pop_male",9259.11895288778
+22124,"zip code","OAKTON","2019","pop_female",9620.82247596402
+22124,"zip code","OAKTON","2019","pop_under_20",5066.65322030998
+22124,"zip code","OAKTON","2019","pop_20_64",10644.806078292
+22124,"zip code","OAKTON","2019","pop_65_plus",3149.24344939398
+22124,"zip code","OAKTON","2019","perc_black",1.72410751473706
+22124,"zip code","OAKTON","2019","perc_native",0.673100567215003
+22124,"zip code","OAKTON","2019","perc_AAPI",17.0250064080005
+22124,"zip code","OAKTON","2019","perc_white",73.3407227884677
+22124,"zip code","OAKTON","2019","perc_hispanic_or_latino",8.7894188282463
+22124,"zip code","OAKTON","2019","perc_male",49.0420957489744
+22124,"zip code","OAKTON","2019","perc_female",50.9579042510256
+22124,"zip code","OAKTON","2019","perc_under_20",26.8361702254396
+22124,"zip code","OAKTON","2019","perc_20_64",56.3815630382459
+22124,"zip code","OAKTON","2019","perc_65_plus",16.6803666275225
+22150,"zip code","SPRINGFIELD","2019","total_pop",21775.143796067
+22150,"zip code","SPRINGFIELD","2019","pop_black",2407.57792296556
+22150,"zip code","SPRINGFIELD","2019","pop_native",117.011709601874
+22150,"zip code","SPRINGFIELD","2019","pop_AAPI",4600.07992155
+22150,"zip code","SPRINGFIELD","2019","pop_white",11766.7586048854
+22150,"zip code","SPRINGFIELD","2019","pop_hispanic_or_latino",6268.28044883226
+22150,"zip code","SPRINGFIELD","2019","pop_male",11513.1335246779
+22150,"zip code","SPRINGFIELD","2019","pop_female",10262.0102713892
+22150,"zip code","SPRINGFIELD","2019","pop_under_20",5560.17093787736
+22150,"zip code","SPRINGFIELD","2019","pop_20_64",13428.3489344256
+22150,"zip code","SPRINGFIELD","2019","pop_65_plus",2723.44056860214
+22150,"zip code","SPRINGFIELD","2019","perc_black",11.0565420165005
+22150,"zip code","SPRINGFIELD","2019","perc_native",0.537363659674238
+22150,"zip code","SPRINGFIELD","2019","perc_AAPI",21.1253710406305
+22150,"zip code","SPRINGFIELD","2019","perc_white",54.0375701537763
+22150,"zip code","SPRINGFIELD","2019","perc_hispanic_or_latino",28.7864020900951
+22150,"zip code","SPRINGFIELD","2019","perc_male",52.8728243197978
+22150,"zip code","SPRINGFIELD","2019","perc_female",47.1271756802022
+22150,"zip code","SPRINGFIELD","2019","perc_under_20",25.5344855122455
+22150,"zip code","SPRINGFIELD","2019","perc_20_64",61.6682445828485
+22150,"zip code","SPRINGFIELD","2019","perc_65_plus",12.5071071590078
+22151,"zip code","SPRINGFIELD","2019","total_pop",17425.5280103026
+22151,"zip code","SPRINGFIELD","2019","pop_black",864.345782356729
+22151,"zip code","SPRINGFIELD","2019","pop_native",52
+22151,"zip code","SPRINGFIELD","2019","pop_AAPI",4101.69800386349
+22151,"zip code","SPRINGFIELD","2019","pop_white",10734.8422408242
+22151,"zip code","SPRINGFIELD","2019","pop_hispanic_or_latino",3425.200901481
+22151,"zip code","SPRINGFIELD","2019","pop_male",8658.62395363813
+22151,"zip code","SPRINGFIELD","2019","pop_female",8766.90405666452
+22151,"zip code","SPRINGFIELD","2019","pop_under_20",4189.99034127495
+22151,"zip code","SPRINGFIELD","2019","pop_20_64",10436.0405666452
+22151,"zip code","SPRINGFIELD","2019","pop_65_plus",2715.8403090792
+22151,"zip code","SPRINGFIELD","2019","perc_black",4.96022721288959
+22151,"zip code","SPRINGFIELD","2019","perc_native",0.298412765278938
+22151,"zip code","SPRINGFIELD","2019","perc_AAPI",23.5384431475385
+22151,"zip code","SPRINGFIELD","2019","perc_white",61.6041145753366
+22151,"zip code","SPRINGFIELD","2019","perc_hispanic_or_latino",19.656224473978
+22151,"zip code","SPRINGFIELD","2019","perc_male",49.6893061060693
+22151,"zip code","SPRINGFIELD","2019","perc_female",50.3106938939307
+22151,"zip code","SPRINGFIELD","2019","perc_under_20",24.0451270044596
+22151,"zip code","SPRINGFIELD","2019","perc_20_64",59.8893793087648
+22151,"zip code","SPRINGFIELD","2019","perc_65_plus",15.585411859391
+22152,"zip code","SPRINGFIELD","2019","total_pop",30614.83027036
+22152,"zip code","SPRINGFIELD","2019","pop_black",2757.32035683077
+22152,"zip code","SPRINGFIELD","2019","pop_native",54.0587412587413
+22152,"zip code","SPRINGFIELD","2019","pop_AAPI",5064.89642290317
+22152,"zip code","SPRINGFIELD","2019","pop_white",19759.7992484007
+22152,"zip code","SPRINGFIELD","2019","pop_hispanic_or_latino",4976.5777624612
+22152,"zip code","SPRINGFIELD","2019","pop_male",15191.1383478589
+22152,"zip code","SPRINGFIELD","2019","pop_female",15423.6919225011
+22152,"zip code","SPRINGFIELD","2019","pop_under_20",8413.90479293963
+22152,"zip code","SPRINGFIELD","2019","pop_20_64",17807.5102436981
+22152,"zip code","SPRINGFIELD","2019","pop_65_plus",4125.83810898677
+22152,"zip code","SPRINGFIELD","2019","perc_black",9.00648585172883
+22152,"zip code","SPRINGFIELD","2019","perc_native",0.176576975215436
+22152,"zip code","SPRINGFIELD","2019","perc_AAPI",16.543931088871
+22152,"zip code","SPRINGFIELD","2019","perc_white",64.5432265144102
+22152,"zip code","SPRINGFIELD","2019","perc_hispanic_or_latino",16.2554478287581
+22152,"zip code","SPRINGFIELD","2019","perc_male",49.6201945714078
+22152,"zip code","SPRINGFIELD","2019","perc_female",50.3798054285922
+22152,"zip code","SPRINGFIELD","2019","perc_under_20",27.4831012245906
+22152,"zip code","SPRINGFIELD","2019","perc_20_64",58.1662876665972
+22152,"zip code","SPRINGFIELD","2019","perc_65_plus",13.4765996497496
+22153,"zip code","SPRINGFIELD","2019","total_pop",31230.601974647
+22153,"zip code","SPRINGFIELD","2019","pop_black",3537.96027814616
+22153,"zip code","SPRINGFIELD","2019","pop_native",148.039611085375
+22153,"zip code","SPRINGFIELD","2019","pop_AAPI",3991.54785997494
+22153,"zip code","SPRINGFIELD","2019","pop_white",21134.9391205952
+22153,"zip code","SPRINGFIELD","2019","pop_hispanic_or_latino",3741.85676672112
+22153,"zip code","SPRINGFIELD","2019","pop_male",15574.5865292666
+22153,"zip code","SPRINGFIELD","2019","pop_female",15656.0154453804
+22153,"zip code","SPRINGFIELD","2019","pop_under_20",8564.27373579449
+22153,"zip code","SPRINGFIELD","2019","pop_20_64",18324.314595322
+22153,"zip code","SPRINGFIELD","2019","pop_65_plus",4261.30569222966
+22153,"zip code","SPRINGFIELD","2019","perc_black",11.3285049100823
+22153,"zip code","SPRINGFIELD","2019","perc_native",0.474020997755835
+22153,"zip code","SPRINGFIELD","2019","perc_AAPI",12.7808867187872
+22153,"zip code","SPRINGFIELD","2019","perc_white",67.6738128126782
+22153,"zip code","SPRINGFIELD","2019","perc_hispanic_or_latino",11.9813789364635
+22153,"zip code","SPRINGFIELD","2019","perc_male",49.8696328105044
+22153,"zip code","SPRINGFIELD","2019","perc_female",50.1303671894956
+22153,"zip code","SPRINGFIELD","2019","perc_under_20",27.4226982328005
+22153,"zip code","SPRINGFIELD","2019","perc_20_64",58.6742279581984
+22153,"zip code","SPRINGFIELD","2019","perc_65_plus",13.6446479503949
+22158,"zip code","SPRINGFIELD","2019","total_pop",0
+22158,"zip code","SPRINGFIELD","2019","pop_black",0
+22158,"zip code","SPRINGFIELD","2019","pop_native",0
+22158,"zip code","SPRINGFIELD","2019","pop_AAPI",0
+22158,"zip code","SPRINGFIELD","2019","pop_white",0
+22158,"zip code","SPRINGFIELD","2019","pop_hispanic_or_latino",0
+22158,"zip code","SPRINGFIELD","2019","pop_male",0
+22158,"zip code","SPRINGFIELD","2019","pop_female",0
+22158,"zip code","SPRINGFIELD","2019","pop_under_20",0
+22158,"zip code","SPRINGFIELD","2019","pop_20_64",0
+22158,"zip code","SPRINGFIELD","2019","pop_65_plus",0
+22158,"zip code","SPRINGFIELD","2019","perc_black",NA
+22158,"zip code","SPRINGFIELD","2019","perc_native",NA
+22158,"zip code","SPRINGFIELD","2019","perc_AAPI",NA
+22158,"zip code","SPRINGFIELD","2019","perc_white",NA
+22158,"zip code","SPRINGFIELD","2019","perc_hispanic_or_latino",NA
+22158,"zip code","SPRINGFIELD","2019","perc_male",NA
+22158,"zip code","SPRINGFIELD","2019","perc_female",NA
+22158,"zip code","SPRINGFIELD","2019","perc_under_20",NA
+22158,"zip code","SPRINGFIELD","2019","perc_20_64",NA
+22158,"zip code","SPRINGFIELD","2019","perc_65_plus",NA
+22159,"zip code","SPRINGFIELD","2019","total_pop",0
+22159,"zip code","SPRINGFIELD","2019","pop_black",0
+22159,"zip code","SPRINGFIELD","2019","pop_native",0
+22159,"zip code","SPRINGFIELD","2019","pop_AAPI",0
+22159,"zip code","SPRINGFIELD","2019","pop_white",0
+22159,"zip code","SPRINGFIELD","2019","pop_hispanic_or_latino",0
+22159,"zip code","SPRINGFIELD","2019","pop_male",0
+22159,"zip code","SPRINGFIELD","2019","pop_female",0
+22159,"zip code","SPRINGFIELD","2019","pop_under_20",0
+22159,"zip code","SPRINGFIELD","2019","pop_20_64",0
+22159,"zip code","SPRINGFIELD","2019","pop_65_plus",0
+22159,"zip code","SPRINGFIELD","2019","perc_black",NA
+22159,"zip code","SPRINGFIELD","2019","perc_native",NA
+22159,"zip code","SPRINGFIELD","2019","perc_AAPI",NA
+22159,"zip code","SPRINGFIELD","2019","perc_white",NA
+22159,"zip code","SPRINGFIELD","2019","perc_hispanic_or_latino",NA
+22159,"zip code","SPRINGFIELD","2019","perc_male",NA
+22159,"zip code","SPRINGFIELD","2019","perc_female",NA
+22159,"zip code","SPRINGFIELD","2019","perc_under_20",NA
+22159,"zip code","SPRINGFIELD","2019","perc_20_64",NA
+22159,"zip code","SPRINGFIELD","2019","perc_65_plus",NA
+22160,"zip code","SPRINGFIELD","2019","total_pop",0
+22160,"zip code","SPRINGFIELD","2019","pop_black",0
+22160,"zip code","SPRINGFIELD","2019","pop_native",0
+22160,"zip code","SPRINGFIELD","2019","pop_AAPI",0
+22160,"zip code","SPRINGFIELD","2019","pop_white",0
+22160,"zip code","SPRINGFIELD","2019","pop_hispanic_or_latino",0
+22160,"zip code","SPRINGFIELD","2019","pop_male",0
+22160,"zip code","SPRINGFIELD","2019","pop_female",0
+22160,"zip code","SPRINGFIELD","2019","pop_under_20",0
+22160,"zip code","SPRINGFIELD","2019","pop_20_64",0
+22160,"zip code","SPRINGFIELD","2019","pop_65_plus",0
+22160,"zip code","SPRINGFIELD","2019","perc_black",NA
+22160,"zip code","SPRINGFIELD","2019","perc_native",NA
+22160,"zip code","SPRINGFIELD","2019","perc_AAPI",NA
+22160,"zip code","SPRINGFIELD","2019","perc_white",NA
+22160,"zip code","SPRINGFIELD","2019","perc_hispanic_or_latino",NA
+22160,"zip code","SPRINGFIELD","2019","perc_male",NA
+22160,"zip code","SPRINGFIELD","2019","perc_female",NA
+22160,"zip code","SPRINGFIELD","2019","perc_under_20",NA
+22160,"zip code","SPRINGFIELD","2019","perc_20_64",NA
+22160,"zip code","SPRINGFIELD","2019","perc_65_plus",NA
+22161,"zip code","SPRINGFIELD","2019","total_pop",0
+22161,"zip code","SPRINGFIELD","2019","pop_black",0
+22161,"zip code","SPRINGFIELD","2019","pop_native",0
+22161,"zip code","SPRINGFIELD","2019","pop_AAPI",0
+22161,"zip code","SPRINGFIELD","2019","pop_white",0
+22161,"zip code","SPRINGFIELD","2019","pop_hispanic_or_latino",0
+22161,"zip code","SPRINGFIELD","2019","pop_male",0
+22161,"zip code","SPRINGFIELD","2019","pop_female",0
+22161,"zip code","SPRINGFIELD","2019","pop_under_20",0
+22161,"zip code","SPRINGFIELD","2019","pop_20_64",0
+22161,"zip code","SPRINGFIELD","2019","pop_65_plus",0
+22161,"zip code","SPRINGFIELD","2019","perc_black",NA
+22161,"zip code","SPRINGFIELD","2019","perc_native",NA
+22161,"zip code","SPRINGFIELD","2019","perc_AAPI",NA
+22161,"zip code","SPRINGFIELD","2019","perc_white",NA
+22161,"zip code","SPRINGFIELD","2019","perc_hispanic_or_latino",NA
+22161,"zip code","SPRINGFIELD","2019","perc_male",NA
+22161,"zip code","SPRINGFIELD","2019","perc_female",NA
+22161,"zip code","SPRINGFIELD","2019","perc_under_20",NA
+22161,"zip code","SPRINGFIELD","2019","perc_20_64",NA
+22161,"zip code","SPRINGFIELD","2019","perc_65_plus",NA
+22180,"zip code","VIENNA","2019","total_pop",20447.8834674952
+22180,"zip code","VIENNA","2019","pop_black",591.80328798761
+22180,"zip code","VIENNA","2019","pop_native",33.3074028560979
+22180,"zip code","VIENNA","2019","pop_AAPI",3098.88408435504
+22180,"zip code","VIENNA","2019","pop_white",15282.6882749151
+22180,"zip code","VIENNA","2019","pop_hispanic_or_latino",1845.98466097354
+22180,"zip code","VIENNA","2019","pop_male",10059.9497111338
+22180,"zip code","VIENNA","2019","pop_female",10387.9337563614
+22180,"zip code","VIENNA","2019","pop_under_20",5954.55219057544
+22180,"zip code","VIENNA","2019","pop_20_64",11571.4598781137
+22180,"zip code","VIENNA","2019","pop_65_plus",2875.49414496861
+22180,"zip code","VIENNA","2019","perc_black",2.89420315275351
+22180,"zip code","VIENNA","2019","perc_native",0.162889244302691
+22180,"zip code","VIENNA","2019","perc_AAPI",15.1550359198846
+22180,"zip code","VIENNA","2019","perc_white",74.7397074088823
+22180,"zip code","VIENNA","2019","perc_hispanic_or_latino",9.02775421186251
+22180,"zip code","VIENNA","2019","perc_male",49.1980000136712
+22180,"zip code","VIENNA","2019","perc_female",50.8019999863288
+22180,"zip code","VIENNA","2019","perc_under_20",29.1206285483827
+22180,"zip code","VIENNA","2019","perc_20_64",56.5900128319301
+22180,"zip code","VIENNA","2019","perc_65_plus",14.0625515082752
+22181,"zip code","VIENNA","2019","total_pop",15881.1651324149
+22181,"zip code","VIENNA","2019","pop_black",801.831033235657
+22181,"zip code","VIENNA","2019","pop_native",1.45018450184502
+22181,"zip code","VIENNA","2019","pop_AAPI",2791.27002490914
+22181,"zip code","VIENNA","2019","pop_white",10766.7433751166
+22181,"zip code","VIENNA","2019","pop_hispanic_or_latino",1485.88023614116
+22181,"zip code","VIENNA","2019","pop_male",7944.81710242926
+22181,"zip code","VIENNA","2019","pop_female",7936.3480299856
+22181,"zip code","VIENNA","2019","pop_under_20",4588.16998685334
+22181,"zip code","VIENNA","2019","pop_20_64",8801.57859202456
+22181,"zip code","VIENNA","2019","pop_65_plus",2542.91066772211
+22181,"zip code","VIENNA","2019","perc_black",5.0489433649868
+22181,"zip code","VIENNA","2019","perc_native",0.00913147423223414
+22181,"zip code","VIENNA","2019","perc_AAPI",17.5759775912909
+22181,"zip code","VIENNA","2019","perc_white",67.795676736216
+22181,"zip code","VIENNA","2019","perc_hispanic_or_latino",9.35624196179625
+22181,"zip code","VIENNA","2019","perc_male",50.0266638888678
+22181,"zip code","VIENNA","2019","perc_female",49.9733361111321
+22181,"zip code","VIENNA","2019","perc_under_20",28.890638366882
+22181,"zip code","VIENNA","2019","perc_20_64",55.4214915507663
+22181,"zip code","VIENNA","2019","perc_65_plus",16.0121165325068
+22182,"zip code","VIENNA","2019","total_pop",24546.5792831657
+22182,"zip code","VIENNA","2019","pop_black",1059.43599452189
+22182,"zip code","VIENNA","2019","pop_native",20.158781074579
+22182,"zip code","VIENNA","2019","pop_AAPI",5115.68607909164
+22182,"zip code","VIENNA","2019","pop_white",17007.283432257
+22182,"zip code","VIENNA","2019","pop_hispanic_or_latino",1351.18438428257
+22182,"zip code","VIENNA","2019","pop_male",12370.0717919108
+22182,"zip code","VIENNA","2019","pop_female",12176.5074912549
+22182,"zip code","VIENNA","2019","pop_under_20",6344.01757158258
+22182,"zip code","VIENNA","2019","pop_20_64",13443.5514914033
+22182,"zip code","VIENNA","2019","pop_65_plus",4880.17343882429
+22182,"zip code","VIENNA","2019","perc_black",4.31602294682447
+22182,"zip code","VIENNA","2019","perc_native",0.08212460417409
+22182,"zip code","VIENNA","2019","perc_AAPI",20.8407290485482
+22182,"zip code","VIENNA","2019","perc_white",69.2857576449392
+22182,"zip code","VIENNA","2019","perc_hispanic_or_latino",5.50457303518957
+22182,"zip code","VIENNA","2019","perc_male",50.39427958255
+22182,"zip code","VIENNA","2019","perc_female",49.6057204174499
+22182,"zip code","VIENNA","2019","perc_under_20",25.8448132360886
+22182,"zip code","VIENNA","2019","perc_20_64",54.767515002072
+22182,"zip code","VIENNA","2019","perc_65_plus",19.881277071348
+22185,"zip code","VIENNA","2019","total_pop",0
+22185,"zip code","VIENNA","2019","pop_black",0
+22185,"zip code","VIENNA","2019","pop_native",0
+22185,"zip code","VIENNA","2019","pop_AAPI",0
+22185,"zip code","VIENNA","2019","pop_white",0
+22185,"zip code","VIENNA","2019","pop_hispanic_or_latino",0
+22185,"zip code","VIENNA","2019","pop_male",0
+22185,"zip code","VIENNA","2019","pop_female",0
+22185,"zip code","VIENNA","2019","pop_under_20",0
+22185,"zip code","VIENNA","2019","pop_20_64",0
+22185,"zip code","VIENNA","2019","pop_65_plus",0
+22185,"zip code","VIENNA","2019","perc_black",NA
+22185,"zip code","VIENNA","2019","perc_native",NA
+22185,"zip code","VIENNA","2019","perc_AAPI",NA
+22185,"zip code","VIENNA","2019","perc_white",NA
+22185,"zip code","VIENNA","2019","perc_hispanic_or_latino",NA
+22185,"zip code","VIENNA","2019","perc_male",NA
+22185,"zip code","VIENNA","2019","perc_female",NA
+22185,"zip code","VIENNA","2019","perc_under_20",NA
+22185,"zip code","VIENNA","2019","perc_20_64",NA
+22185,"zip code","VIENNA","2019","perc_65_plus",NA
+22199,"zip code","LORTON","2019","total_pop",0
+22199,"zip code","LORTON","2019","pop_black",0
+22199,"zip code","LORTON","2019","pop_native",0
+22199,"zip code","LORTON","2019","pop_AAPI",0
+22199,"zip code","LORTON","2019","pop_white",0
+22199,"zip code","LORTON","2019","pop_hispanic_or_latino",0
+22199,"zip code","LORTON","2019","pop_male",0
+22199,"zip code","LORTON","2019","pop_female",0
+22199,"zip code","LORTON","2019","pop_under_20",0
+22199,"zip code","LORTON","2019","pop_20_64",0
+22199,"zip code","LORTON","2019","pop_65_plus",0
+22199,"zip code","LORTON","2019","perc_black",NA
+22199,"zip code","LORTON","2019","perc_native",NA
+22199,"zip code","LORTON","2019","perc_AAPI",NA
+22199,"zip code","LORTON","2019","perc_white",NA
+22199,"zip code","LORTON","2019","perc_hispanic_or_latino",NA
+22199,"zip code","LORTON","2019","perc_male",NA
+22199,"zip code","LORTON","2019","perc_female",NA
+22199,"zip code","LORTON","2019","perc_under_20",NA
+22199,"zip code","LORTON","2019","perc_20_64",NA
+22199,"zip code","LORTON","2019","perc_65_plus",NA
+22203,"zip code","ARLINGTON","2019","total_pop",290.575916230366
+22203,"zip code","ARLINGTON","2019","pop_black",13.0890052356021
+22203,"zip code","ARLINGTON","2019","pop_native",0
+22203,"zip code","ARLINGTON","2019","pop_AAPI",36.9109947643979
+22203,"zip code","ARLINGTON","2019","pop_white",165.706806282723
+22203,"zip code","ARLINGTON","2019","pop_hispanic_or_latino",134.031413612565
+22203,"zip code","ARLINGTON","2019","pop_male",146.596858638743
+22203,"zip code","ARLINGTON","2019","pop_female",143.979057591623
+22203,"zip code","ARLINGTON","2019","pop_under_20",90.3141361256544
+22203,"zip code","ARLINGTON","2019","pop_20_64",156.282722513089
+22203,"zip code","ARLINGTON","2019","pop_65_plus",27.7486910994765
+22203,"zip code","ARLINGTON","2019","perc_black",4.50450450450451
+22203,"zip code","ARLINGTON","2019","perc_native",0
+22203,"zip code","ARLINGTON","2019","perc_AAPI",12.7027027027027
+22203,"zip code","ARLINGTON","2019","perc_white",57.0270270270271
+22203,"zip code","ARLINGTON","2019","perc_hispanic_or_latino",46.1261261261261
+22203,"zip code","ARLINGTON","2019","perc_male",50.4504504504504
+22203,"zip code","ARLINGTON","2019","perc_female",49.5495495495496
+22203,"zip code","ARLINGTON","2019","perc_under_20",31.0810810810811
+22203,"zip code","ARLINGTON","2019","perc_20_64",53.7837837837839
+22203,"zip code","ARLINGTON","2019","perc_65_plus",9.54954954954956
+22204,"zip code","ARLINGTON","2019","total_pop",611.12722190367
+22204,"zip code","ARLINGTON","2019","pop_black",48.2675704456094
+22204,"zip code","ARLINGTON","2019","pop_native",0.100917431192661
+22204,"zip code","ARLINGTON","2019","pop_AAPI",73.9817537680209
+22204,"zip code","ARLINGTON","2019","pop_white",366.683424803407
+22204,"zip code","ARLINGTON","2019","pop_hispanic_or_latino",272.909250081914
+22204,"zip code","ARLINGTON","2019","pop_male",289.140133519004
+22204,"zip code","ARLINGTON","2019","pop_female",321.987088384666
+22204,"zip code","ARLINGTON","2019","pop_under_20",148.167349279161
+22204,"zip code","ARLINGTON","2019","pop_20_64",341.354449950852
+22204,"zip code","ARLINGTON","2019","pop_65_plus",94.7460476736566
+22204,"zip code","ARLINGTON","2019","perc_black",7.89812149019565
+22204,"zip code","ARLINGTON","2019","perc_native",0.0165133261251727
+22204,"zip code","ARLINGTON","2019","perc_AAPI",12.1057860158097
+22204,"zip code","ARLINGTON","2019","perc_white",60.0011604230595
+22204,"zip code","ARLINGTON","2019","perc_hispanic_or_latino",44.6566999964095
+22204,"zip code","ARLINGTON","2019","perc_male",47.312592723055
+22204,"zip code","ARLINGTON","2019","perc_female",52.687407276945
+22204,"zip code","ARLINGTON","2019","perc_under_20",24.244927073878
+22204,"zip code","ARLINGTON","2019","perc_20_64",55.8565283489627
+22204,"zip code","ARLINGTON","2019","perc_65_plus",15.5034899899437
+22206,"zip code","ARLINGTON","2019","total_pop",1668.4453125
+22206,"zip code","ARLINGTON","2019","pop_black",124.995535714286
+22206,"zip code","ARLINGTON","2019","pop_native",0
+22206,"zip code","ARLINGTON","2019","pop_AAPI",194.845982142857
+22206,"zip code","ARLINGTON","2019","pop_white",1008.54241071429
+22206,"zip code","ARLINGTON","2019","pop_hispanic_or_latino",771.418526785714
+22206,"zip code","ARLINGTON","2019","pop_male",785.511160714286
+22206,"zip code","ARLINGTON","2019","pop_female",882.934151785714
+22206,"zip code","ARLINGTON","2019","pop_under_20",406.848214285714
+22206,"zip code","ARLINGTON","2019","pop_20_64",923.373883928572
+22206,"zip code","ARLINGTON","2019","pop_65_plus",261.020089285714
+22206,"zip code","ARLINGTON","2019","perc_black",7.49173705471906
+22206,"zip code","ARLINGTON","2019","perc_native",0
+22206,"zip code","ARLINGTON","2019","perc_AAPI",11.6782959970621
+22206,"zip code","ARLINGTON","2019","perc_white",60.4480352552332
+22206,"zip code","ARLINGTON","2019","perc_hispanic_or_latino",46.2357693720161
+22206,"zip code","ARLINGTON","2019","perc_male",47.0804260007345
+22206,"zip code","ARLINGTON","2019","perc_female",52.9195739992655
+22206,"zip code","ARLINGTON","2019","perc_under_20",24.3848696290855
+22206,"zip code","ARLINGTON","2019","perc_20_64",55.3433712816746
+22206,"zip code","ARLINGTON","2019","perc_65_plus",15.6445097319133
+22207,"zip code","ARLINGTON","2019","total_pop",216.147885309221
+22207,"zip code","ARLINGTON","2019","pop_black",4.33856495887515
+22207,"zip code","ARLINGTON","2019","pop_native",0
+22207,"zip code","ARLINGTON","2019","pop_AAPI",18.8000508367838
+22207,"zip code","ARLINGTON","2019","pop_white",188.693480039878
+22207,"zip code","ARLINGTON","2019","pop_hispanic_or_latino",8.71321191327585
+22207,"zip code","ARLINGTON","2019","pop_male",110.621044574697
+22207,"zip code","ARLINGTON","2019","pop_female",105.526840734524
+22207,"zip code","ARLINGTON","2019","pop_under_20",63.9897747121224
+22207,"zip code","ARLINGTON","2019","pop_20_64",105.432089846351
+22207,"zip code","ARLINGTON","2019","pop_65_plus",48.666681817882
+22207,"zip code","ARLINGTON","2019","perc_black",2.00722063631037
+22207,"zip code","ARLINGTON","2019","perc_native",0
+22207,"zip code","ARLINGTON","2019","perc_AAPI",8.69777227285313
+22207,"zip code","ARLINGTON","2019","perc_white",87.2983234464373
+22207,"zip code","ARLINGTON","2019","perc_hispanic_or_latino",4.03113447111025
+22207,"zip code","ARLINGTON","2019","perc_male",51.1784070505446
+22207,"zip code","ARLINGTON","2019","perc_female",48.8215929494555
+22207,"zip code","ARLINGTON","2019","perc_under_20",29.6046267677237
+22207,"zip code","ARLINGTON","2019","perc_20_64",48.7777568101209
+22207,"zip code","ARLINGTON","2019","perc_65_plus",22.5154559103178
+22213,"zip code","ARLINGTON","2019","total_pop",35.6458245820415
+22213,"zip code","ARLINGTON","2019","pop_black",0.0477139190923211
+22213,"zip code","ARLINGTON","2019","pop_native",0
+22213,"zip code","ARLINGTON","2019","pop_AAPI",6.46401851976918
+22213,"zip code","ARLINGTON","2019","pop_white",27.3678137824086
+22213,"zip code","ARLINGTON","2019","pop_hispanic_or_latino",0.62567661356259
+22213,"zip code","ARLINGTON","2019","pop_male",17.2449651233579
+22213,"zip code","ARLINGTON","2019","pop_female",18.4008594586836
+22213,"zip code","ARLINGTON","2019","pop_under_20",12.1796871519939
+22213,"zip code","ARLINGTON","2019","pop_20_64",17.4097356834454
+22213,"zip code","ARLINGTON","2019","pop_65_plus",6.28750394556533
+22213,"zip code","ARLINGTON","2019","perc_black",0.133855562753231
+22213,"zip code","ARLINGTON","2019","perc_native",0
+22213,"zip code","ARLINGTON","2019","perc_AAPI",18.1340131573945
+22213,"zip code","ARLINGTON","2019","perc_white",76.7770534229598
+22213,"zip code","ARLINGTON","2019","perc_hispanic_or_latino",1.75525919486741
+22213,"zip code","ARLINGTON","2019","perc_male",48.3786399264445
+22213,"zip code","ARLINGTON","2019","perc_female",51.6213600735555
+22213,"zip code","ARLINGTON","2019","perc_under_20",34.1686222574582
+22213,"zip code","ARLINGTON","2019","perc_20_64",48.8408835749488
+22213,"zip code","ARLINGTON","2019","perc_65_plus",17.6388231140345
+22302,"zip code","ALEXANDRIA","2019","total_pop",2698.6875
+22302,"zip code","ALEXANDRIA","2019","pop_black",202.178571428571
+22302,"zip code","ALEXANDRIA","2019","pop_native",0
+22302,"zip code","ALEXANDRIA","2019","pop_AAPI",315.160714285715
+22302,"zip code","ALEXANDRIA","2019","pop_white",1631.30357142857
+22302,"zip code","ALEXANDRIA","2019","pop_hispanic_or_latino",1247.75892857143
+22302,"zip code","ALEXANDRIA","2019","pop_male",1270.55357142857
+22302,"zip code","ALEXANDRIA","2019","pop_female",1428.13392857143
+22302,"zip code","ALEXANDRIA","2019","pop_under_20",658.071428571428
+22302,"zip code","ALEXANDRIA","2019","pop_20_64",1493.54464285714
+22302,"zip code","ALEXANDRIA","2019","pop_65_plus",422.196428571428
+22302,"zip code","ALEXANDRIA","2019","perc_black",7.49173705471906
+22302,"zip code","ALEXANDRIA","2019","perc_native",0
+22302,"zip code","ALEXANDRIA","2019","perc_AAPI",11.6782959970621
+22302,"zip code","ALEXANDRIA","2019","perc_white",60.4480352552332
+22302,"zip code","ALEXANDRIA","2019","perc_hispanic_or_latino",46.2357693720162
+22302,"zip code","ALEXANDRIA","2019","perc_male",47.0804260007345
+22302,"zip code","ALEXANDRIA","2019","perc_female",52.9195739992655
+22302,"zip code","ALEXANDRIA","2019","perc_under_20",24.3848696290856
+22302,"zip code","ALEXANDRIA","2019","perc_20_64",55.3433712816746
+22302,"zip code","ALEXANDRIA","2019","perc_65_plus",15.6445097319133
+22303,"zip code","ALEXANDRIA","2019","total_pop",18383.5254663626
+22303,"zip code","ALEXANDRIA","2019","pop_black",2941.61636372296
+22303,"zip code","ALEXANDRIA","2019","pop_native",0
+22303,"zip code","ALEXANDRIA","2019","pop_AAPI",1869.69915778376
+22303,"zip code","ALEXANDRIA","2019","pop_white",11557.7847166619
+22303,"zip code","ALEXANDRIA","2019","pop_hispanic_or_latino",3200.0292613021
+22303,"zip code","ALEXANDRIA","2019","pop_male",9341.66557036641
+22303,"zip code","ALEXANDRIA","2019","pop_female",9041.85989599619
+22303,"zip code","ALEXANDRIA","2019","pop_under_20",3408.68710525286
+22303,"zip code","ALEXANDRIA","2019","pop_20_64",12680.4691530883
+22303,"zip code","ALEXANDRIA","2019","pop_65_plus",2249.56414524627
+22303,"zip code","ALEXANDRIA","2019","perc_black",16.001372365194
+22303,"zip code","ALEXANDRIA","2019","perc_native",0
+22303,"zip code","ALEXANDRIA","2019","perc_AAPI",10.1705146882999
+22303,"zip code","ALEXANDRIA","2019","perc_white",62.8703386508201
+22303,"zip code","ALEXANDRIA","2019","perc_hispanic_or_latino",17.4070488664287
+22303,"zip code","ALEXANDRIA","2019","perc_male",50.8154194224573
+22303,"zip code","ALEXANDRIA","2019","perc_female",49.1845805775427
+22303,"zip code","ALEXANDRIA","2019","perc_under_20",18.5420751394499
+22303,"zip code","ALEXANDRIA","2019","perc_20_64",68.977352446844
+22303,"zip code","ALEXANDRIA","2019","perc_65_plus",12.2368484182342
+22304,"zip code","ALEXANDRIA","2019","total_pop",691.10421286031
+22304,"zip code","ALEXANDRIA","2019","pop_black",105.011086474501
+22304,"zip code","ALEXANDRIA","2019","pop_native",9.35254988913526
+22304,"zip code","ALEXANDRIA","2019","pop_AAPI",113.871396895787
+22304,"zip code","ALEXANDRIA","2019","pop_white",394.940133037694
+22304,"zip code","ALEXANDRIA","2019","pop_hispanic_or_latino",299.117516629712
+22304,"zip code","ALEXANDRIA","2019","pop_male",360.811529933481
+22304,"zip code","ALEXANDRIA","2019","pop_female",330.292682926829
+22304,"zip code","ALEXANDRIA","2019","pop_under_20",194.270509977826
+22304,"zip code","ALEXANDRIA","2019","pop_20_64",434.155210643016
+22304,"zip code","ALEXANDRIA","2019","pop_65_plus",59.889135254989
+22304,"zip code","ALEXANDRIA","2019","perc_black",15.1946818613485
+22304,"zip code","ALEXANDRIA","2019","perc_native",1.35327635327635
+22304,"zip code","ALEXANDRIA","2019","perc_AAPI",16.4767331433998
+22304,"zip code","ALEXANDRIA","2019","perc_white",57.1462488129155
+22304,"zip code","ALEXANDRIA","2019","perc_hispanic_or_latino",43.281101614435
+22304,"zip code","ALEXANDRIA","2019","perc_male",52.2079772079772
+22304,"zip code","ALEXANDRIA","2019","perc_female",47.7920227920228
+22304,"zip code","ALEXANDRIA","2019","perc_under_20",28.1101614434947
+22304,"zip code","ALEXANDRIA","2019","perc_20_64",62.8205128205129
+22304,"zip code","ALEXANDRIA","2019","perc_65_plus",8.66571699905034
+22306,"zip code","ALEXANDRIA","2019","total_pop",38847.6231102263
+22306,"zip code","ALEXANDRIA","2019","pop_black",8963.8868730815
+22306,"zip code","ALEXANDRIA","2019","pop_native",11.3687150837989
+22306,"zip code","ALEXANDRIA","2019","pop_AAPI",3096.29337534871
+22306,"zip code","ALEXANDRIA","2019","pop_white",21404.6035904817
+22306,"zip code","ALEXANDRIA","2019","pop_hispanic_or_latino",12372.6575696781
+22306,"zip code","ALEXANDRIA","2019","pop_male",19406.7060103466
+22306,"zip code","ALEXANDRIA","2019","pop_female",19440.9170998797
+22306,"zip code","ALEXANDRIA","2019","pop_under_20",11823.482659757
+22306,"zip code","ALEXANDRIA","2019","pop_20_64",23089.8316194274
+22306,"zip code","ALEXANDRIA","2019","pop_65_plus",3908.65392525955
+22306,"zip code","ALEXANDRIA","2019","perc_black",23.0744796088228
+22306,"zip code","ALEXANDRIA","2019","perc_native",0.0292648923501478
+22306,"zip code","ALEXANDRIA","2019","perc_AAPI",7.97035475391451
+22306,"zip code","ALEXANDRIA","2019","perc_white",55.09887575296
+22306,"zip code","ALEXANDRIA","2019","perc_hispanic_or_latino",31.8492010040662
+22306,"zip code","ALEXANDRIA","2019","perc_male",49.9559675897853
+22306,"zip code","ALEXANDRIA","2019","perc_female",50.0440324102148
+22306,"zip code","ALEXANDRIA","2019","perc_under_20",30.4355368826788
+22306,"zip code","ALEXANDRIA","2019","perc_20_64",59.4369224441668
+22306,"zip code","ALEXANDRIA","2019","perc_65_plus",10.0615008392383
+22307,"zip code","ALEXANDRIA","2019","total_pop",10404.674404249
+22307,"zip code","ALEXANDRIA","2019","pop_black",644.691901758321
+22307,"zip code","ALEXANDRIA","2019","pop_native",30
+22307,"zip code","ALEXANDRIA","2019","pop_AAPI",571.338015090508
+22307,"zip code","ALEXANDRIA","2019","pop_white",8556.2495299309
+22307,"zip code","ALEXANDRIA","2019","pop_hispanic_or_latino",1060.20444838417
+22307,"zip code","ALEXANDRIA","2019","pop_male",4603.43847579488
+22307,"zip code","ALEXANDRIA","2019","pop_female",5801.23592845408
+22307,"zip code","ALEXANDRIA","2019","pop_under_20",2364.12930499428
+22307,"zip code","ALEXANDRIA","2019","pop_20_64",6048.26099147149
+22307,"zip code","ALEXANDRIA","2019","pop_65_plus",1915.85303833822
+22307,"zip code","ALEXANDRIA","2019","perc_black",6.19617564865891
+22307,"zip code","ALEXANDRIA","2019","perc_native",0.288331944224501
+22307,"zip code","ALEXANDRIA","2019","perc_AAPI",5.49116669001377
+22307,"zip code","ALEXANDRIA","2019","perc_white",82.2346687411649
+22307,"zip code","ALEXANDRIA","2019","perc_hispanic_or_latino",10.1896936626024
+22307,"zip code","ALEXANDRIA","2019","perc_male",44.243945528127
+22307,"zip code","ALEXANDRIA","2019","perc_female",55.7560544718731
+22307,"zip code","ALEXANDRIA","2019","perc_under_20",22.7217999635706
+22307,"zip code","ALEXANDRIA","2019","perc_20_64",58.130228361606
+22307,"zip code","ALEXANDRIA","2019","perc_65_plus",18.4133877130825
+22308,"zip code","ALEXANDRIA","2019","total_pop",13467.5630709
+22308,"zip code","ALEXANDRIA","2019","pop_black",289.886090252971
+22308,"zip code","ALEXANDRIA","2019","pop_native",0
+22308,"zip code","ALEXANDRIA","2019","pop_AAPI",397.463586888701
+22308,"zip code","ALEXANDRIA","2019","pop_white",12392.8849543661
+22308,"zip code","ALEXANDRIA","2019","pop_hispanic_or_latino",727.873698407505
+22308,"zip code","ALEXANDRIA","2019","pop_male",6830.46520741768
+22308,"zip code","ALEXANDRIA","2019","pop_female",6637.0978634823
+22308,"zip code","ALEXANDRIA","2019","pop_under_20",3917.51719276701
+22308,"zip code","ALEXANDRIA","2019","pop_20_64",7053.34247922394
+22308,"zip code","ALEXANDRIA","2019","pop_65_plus",2378.03779505408
+22308,"zip code","ALEXANDRIA","2019","perc_black",2.15247620320667
+22308,"zip code","ALEXANDRIA","2019","perc_native",0
+22308,"zip code","ALEXANDRIA","2019","perc_AAPI",2.95126582883818
+22308,"zip code","ALEXANDRIA","2019","perc_white",92.0202481259878
+22308,"zip code","ALEXANDRIA","2019","perc_hispanic_or_latino",5.40464295266794
+22308,"zip code","ALEXANDRIA","2019","perc_male",50.7179002723707
+22308,"zip code","ALEXANDRIA","2019","perc_female",49.2820997276293
+22308,"zip code","ALEXANDRIA","2019","perc_under_20",29.088537934764
+22308,"zip code","ALEXANDRIA","2019","perc_20_64",52.3728193593126
+22308,"zip code","ALEXANDRIA","2019","perc_65_plus",17.6575211308453
+22309,"zip code","ALEXANDRIA","2019","total_pop",39322.9949479929
+22309,"zip code","ALEXANDRIA","2019","pop_black",9353.73638875687
+22309,"zip code","ALEXANDRIA","2019","pop_native",124
+22309,"zip code","ALEXANDRIA","2019","pop_AAPI",3309.05984892052
+22309,"zip code","ALEXANDRIA","2019","pop_white",21162.6375867169
+22309,"zip code","ALEXANDRIA","2019","pop_hispanic_or_latino",12395.9957304997
+22309,"zip code","ALEXANDRIA","2019","pop_male",19450.9004374059
+22309,"zip code","ALEXANDRIA","2019","pop_female",19872.094510587
+22309,"zip code","ALEXANDRIA","2019","pop_under_20",11953.1822032383
+22309,"zip code","ALEXANDRIA","2019","pop_20_64",23454.9535889328
+22309,"zip code","ALEXANDRIA","2019","pop_65_plus",3767.74617872254
+22309,"zip code","ALEXANDRIA","2019","perc_black",23.7869379001466
+22309,"zip code","ALEXANDRIA","2019","perc_native",0.315337120593174
+22309,"zip code","ALEXANDRIA","2019","perc_AAPI",8.41507584378289
+22309,"zip code","ALEXANDRIA","2019","perc_white",53.8174612963884
+22309,"zip code","ALEXANDRIA","2019","perc_hispanic_or_latino",31.5235290366213
+22309,"zip code","ALEXANDRIA","2019","perc_male",49.4644430393233
+22309,"zip code","ALEXANDRIA","2019","perc_female",50.5355569606766
+22309,"zip code","ALEXANDRIA","2019","perc_under_20",30.3974359507641
+22309,"zip code","ALEXANDRIA","2019","perc_20_64",59.6469155514564
+22309,"zip code","ALEXANDRIA","2019","perc_65_plus",9.58153412197015
+22310,"zip code","ALEXANDRIA","2019","total_pop",30781.256378497
+22310,"zip code","ALEXANDRIA","2019","pop_black",4947.18007860609
+22310,"zip code","ALEXANDRIA","2019","pop_native",81.9507623259189
+22310,"zip code","ALEXANDRIA","2019","pop_AAPI",4191.63143104744
+22310,"zip code","ALEXANDRIA","2019","pop_white",18825.4981602053
+22310,"zip code","ALEXANDRIA","2019","pop_hispanic_or_latino",5353.19224789577
+22310,"zip code","ALEXANDRIA","2019","pop_male",14730.3357884893
+22310,"zip code","ALEXANDRIA","2019","pop_female",16050.9205900076
+22310,"zip code","ALEXANDRIA","2019","pop_under_20",7224.88408765606
+22310,"zip code","ALEXANDRIA","2019","pop_20_64",19618.2039388402
+22310,"zip code","ALEXANDRIA","2019","pop_65_plus",3889.57162074272
+22310,"zip code","ALEXANDRIA","2019","perc_black",16.0720537777076
+22310,"zip code","ALEXANDRIA","2019","perc_native",0.266235923960426
+22310,"zip code","ALEXANDRIA","2019","perc_AAPI",13.61747999986
+22310,"zip code","ALEXANDRIA","2019","perc_white",61.158966121202
+22310,"zip code","ALEXANDRIA","2019","perc_hispanic_or_latino",17.391077810701
+22310,"zip code","ALEXANDRIA","2019","perc_male",47.854888076562
+22310,"zip code","ALEXANDRIA","2019","perc_female",52.145111923438
+22310,"zip code","ALEXANDRIA","2019","perc_under_20",23.4716997864427
+22310,"zip code","ALEXANDRIA","2019","perc_20_64",63.7342533963137
+22310,"zip code","ALEXANDRIA","2019","perc_65_plus",12.6361691443494
+22311,"zip code","ALEXANDRIA","2019","total_pop",1496.80645614368
+22311,"zip code","ALEXANDRIA","2019","pop_black",253.755116850453
+22311,"zip code","ALEXANDRIA","2019","pop_native",11.6065573770492
+22311,"zip code","ALEXANDRIA","2019","pop_AAPI",158.106592616422
+22311,"zip code","ALEXANDRIA","2019","pop_white",920.525360352796
+22311,"zip code","ALEXANDRIA","2019","pop_hispanic_or_latino",328.294418906047
+22311,"zip code","ALEXANDRIA","2019","pop_male",694.630594599262
+22311,"zip code","ALEXANDRIA","2019","pop_female",802.175861544417
+22311,"zip code","ALEXANDRIA","2019","pop_under_20",274.157968673664
+22311,"zip code","ALEXANDRIA","2019","pop_20_64",958.072907831952
+22311,"zip code","ALEXANDRIA","2019","pop_65_plus",292.525103162905
+22311,"zip code","ALEXANDRIA","2019","perc_black",16.9531014386602
+22311,"zip code","ALEXANDRIA","2019","perc_native",0.775421386606784
+22311,"zip code","ALEXANDRIA","2019","perc_AAPI",10.562928290927
+22311,"zip code","ALEXANDRIA","2019","perc_white",61.4992911457909
+22311,"zip code","ALEXANDRIA","2019","perc_hispanic_or_latino",21.932990571931
+22311,"zip code","ALEXANDRIA","2019","perc_male",46.4075092506538
+22311,"zip code","ALEXANDRIA","2019","perc_female",53.5924907493462
+22311,"zip code","ALEXANDRIA","2019","perc_under_20",18.3161936233223
+22311,"zip code","ALEXANDRIA","2019","perc_20_64",64.0078016699833
+22311,"zip code","ALEXANDRIA","2019","perc_65_plus",19.5432817624636
+22312,"zip code","ALEXANDRIA","2019","total_pop",24273.3896415794
+22312,"zip code","ALEXANDRIA","2019","pop_black",5091.13472514583
+22312,"zip code","ALEXANDRIA","2019","pop_native",96.3338305320659
+22312,"zip code","ALEXANDRIA","2019","pop_AAPI",4428.72974396625
+22312,"zip code","ALEXANDRIA","2019","pop_white",12097.9748844419
+22312,"zip code","ALEXANDRIA","2019","pop_hispanic_or_latino",6181.87415366452
+22312,"zip code","ALEXANDRIA","2019","pop_male",12219.940905666
+22312,"zip code","ALEXANDRIA","2019","pop_female",12053.4487359134
+22312,"zip code","ALEXANDRIA","2019","pop_under_20",5610.54531952798
+22312,"zip code","ALEXANDRIA","2019","pop_20_64",15767.4823681687
+22312,"zip code","ALEXANDRIA","2019","pop_65_plus",2841.02813854901
+22312,"zip code","ALEXANDRIA","2019","perc_black",20.9741399957791
+22312,"zip code","ALEXANDRIA","2019","perc_native",0.396870119725881
+22312,"zip code","ALEXANDRIA","2019","perc_AAPI",18.2452051788432
+22312,"zip code","ALEXANDRIA","2019","perc_white",49.8404840159549
+22312,"zip code","ALEXANDRIA","2019","perc_hispanic_or_latino",25.4677004116277
+22312,"zip code","ALEXANDRIA","2019","perc_male",50.3429520396843
+22312,"zip code","ALEXANDRIA","2019","perc_female",49.6570479603157
+22312,"zip code","ALEXANDRIA","2019","perc_under_20",23.1139754371895
+22312,"zip code","ALEXANDRIA","2019","perc_20_64",64.9578925769789
+22312,"zip code","ALEXANDRIA","2019","perc_65_plus",11.7042909148644
+22315,"zip code","ALEXANDRIA","2019","total_pop",31996.4417801155
+22315,"zip code","ALEXANDRIA","2019","pop_black",5745.41945674159
+22315,"zip code","ALEXANDRIA","2019","pop_native",29.2587947990232
+22315,"zip code","ALEXANDRIA","2019","pop_AAPI",3735.53322390855
+22315,"zip code","ALEXANDRIA","2019","pop_white",20037.6701731855
+22315,"zip code","ALEXANDRIA","2019","pop_hispanic_or_latino",4035.01719304358
+22315,"zip code","ALEXANDRIA","2019","pop_male",15786.611506037
+22315,"zip code","ALEXANDRIA","2019","pop_female",16209.8302740785
+22315,"zip code","ALEXANDRIA","2019","pop_under_20",8039.38289815612
+22315,"zip code","ALEXANDRIA","2019","pop_20_64",20593.7919282314
+22315,"zip code","ALEXANDRIA","2019","pop_65_plus",3318.29562802214
+22315,"zip code","ALEXANDRIA","2019","perc_black",17.9564324565369
+22315,"zip code","ALEXANDRIA","2019","perc_native",0.0914439017941248
+22315,"zip code","ALEXANDRIA","2019","perc_AAPI",11.6748395011536
+22315,"zip code","ALEXANDRIA","2019","perc_white",62.6246828034425
+22315,"zip code","ALEXANDRIA","2019","perc_hispanic_or_latino",12.6108309816849
+22315,"zip code","ALEXANDRIA","2019","perc_male",49.3386471362191
+22315,"zip code","ALEXANDRIA","2019","perc_female",50.6613528637809
+22315,"zip code","ALEXANDRIA","2019","perc_under_20",25.1258654115479
+22315,"zip code","ALEXANDRIA","2019","perc_20_64",64.3627565519788
+22315,"zip code","ALEXANDRIA","2019","perc_65_plus",10.3708270151599
